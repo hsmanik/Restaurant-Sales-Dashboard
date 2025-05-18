@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Order_Time,Item_Name,Quantity,Item_Price,Total_Amount,Payment_Mode,Delivery_Time(min),Prep_Time(min),Rating,Area,Order_Type
+ORD0001,12-04-2025,19:00:00,Paneer Tikka,1,200,200,Cash,34,20,4.6,Bandra,Dine-in
+ORD0002,21-01-2025,06:00:00,Spring Rolls,2,150,300,Cash,38,16,3.1,Andheri,Delivery
+ORD0003,28-03-2025,20:00:00,Spring Rolls,3,150,450,Cash,41,14,4.9,Malad,Delivery
+ORD0004,17-04-2025,05:00:00,Veg Burger,2,120,240,Wallet,40,10,3.6,Andheri,Dine-in
+ORD0005,22-01-2025,11:00:00,Chicken Biryani,1,300,300,Wallet,46,20,3.8,Powai,Delivery
+ORD0006,01-04-2025,15:00:00,Cold Coffee,3,90,270,Cash,22,14,4.2,Powai,Dine-in
+ORD0007,21-01-2025,08:00:00,Mango Shake,3,110,330,Cash,,11,4.9,Thane,Delivery
+ORD0008,01-03-2025,13:00:00,Tandoori Chicken,2,320,640,Credit Card,28,19,3.2,Andheri,Dine-in
+ORD0009,24-03-2025,14:00:00,Pasta Alfredo,3,220,660,Cash,,21,,Colaba,Delivery
+ORD0010,08-01-2025,14:00:00,Choco Lava Cake,3,100,300,UPI,33,10,3.5,Powai,Dine-in
+ORD0011,13-04-2025,03:00:00,Paneer Tikka,2,200,400,UPI,25,15,4.1,Colaba,Delivery
+ORD0012,23-02-2025,17:00:00,Spring Rolls,2,150,300,UPI,53,19,4.8,Andheri,Delivery
+ORD0013,14-01-2025,15:00:00,Pizza Margherita,3,250,750,Credit Card,27,23,3.4,Thane,Takeaway
+ORD0014,02-03-2025,07:00:00,Choco Lava Cake,1,100,100,UPI,35,22,3.5,Malad,Delivery
+ORD0015,22-02-2025,23:00:00,Pasta Alfredo,2,220,440,UPI,44,21,4.2,Powai,Dine-in
+ORD0016,18-04-2025,08:00:00,Cold Coffee,1,90,90,Wallet,34,22,,Bandra,Delivery
+ORD0017,05-03-2025,06:00:00,Paneer Tikka,1,200,200,Cash,,17,3.8,Bandra,Dine-in
+ORD0018,08-01-2025,23:00:00,Cold Coffee,3,90,270,Cash,30,12,4.4,Colaba,Delivery
+ORD0019,04-02-2025,02:00:00,Spring Rolls,1,150,150,Cash,24,19,3.7,Thane,Dine-in
+ORD0020,10-02-2025,06:00:00,Choco Lava Cake,1,100,100,Cash,27,21,3.7,Andheri,Takeaway
+ORD0021,17-02-2025,22:00:00,Pasta Alfredo,3,220,660,UPI,43,14,4.5,Malad,Delivery
+ORD0022,13-04-2025,21:00:00,Spring Rolls,3,150,450,UPI,54,10,3.8,Thane,Takeaway
+ORD0023,16-02-2025,13:00:00,Spring Rolls,3,150,450,Cash,20,14,4.1,Andheri,Takeaway
+ORD0024,14-01-2025,06:00:00,Pasta Alfredo,3,220,660,UPI,28,24,,Andheri,Delivery
+ORD0025,15-01-2025,09:00:00,Mango Shake,1,110,110,Cash,,12,3.1,Bandra,Delivery
+ORD0026,12-04-2025,16:00:00,Mango Shake,1,110,110,UPI,51,13,,Colaba,Takeaway
+ORD0027,03-04-2025,04:00:00,Spring Rolls,3,150,450,UPI,58,22,4.1,Malad,Dine-in
+ORD0028,29-01-2025,03:00:00,Mango Shake,1,110,110,Wallet,51,16,3.6,Powai,Delivery
+ORD0029,26-03-2025,01:00:00,Spring Rolls,2,150,300,UPI,25,21,4.6,Malad,Dine-in
+ORD0030,13-02-2025,19:00:00,Veg Burger,2,120,240,Cash,,23,,Andheri,Delivery
+ORD0031,15-03-2025,22:00:00,Pasta Alfredo,1,220,220,Wallet,58,23,3.2,Thane,Delivery
+ORD0032,27-01-2025,19:00:00,Veg Burger,1,120,120,Wallet,,18,3.6,Andheri,Dine-in
+ORD0033,10-03-2025,07:00:00,Choco Lava Cake,3,100,300,Wallet,28,23,,Andheri,Dine-in
+ORD0034,06-02-2025,00:00:00,Paneer Tikka,3,200,600,Cash,43,24,3.3,Andheri,Delivery
+ORD0035,01-02-2025,23:00:00,Veg Burger,1,120,120,Wallet,31,23,4.4,Colaba,Delivery
+ORD0036,03-01-2025,16:00:00,Paneer Tikka,1,200,200,Wallet,,10,,Andheri,Delivery
+ORD0037,25-02-2025,16:00:00,Spring Rolls,3,150,450,Cash,,10,,Bandra,Delivery
+ORD0038,02-01-2025,01:00:00,Mango Shake,2,110,220,Wallet,42,14,3.7,Andheri,Delivery
+ORD0039,01-01-2025,18:00:00,Pizza Margherita,2,250,500,Wallet,21,14,4,Colaba,Delivery
+ORD0040,01-02-2025,05:00:00,Spring Rolls,3,150,450,Wallet,23,16,4.5,Andheri,Delivery
+ORD0041,17-01-2025,05:00:00,Spring Rolls,1,150,150,Cash,53,15,3.8,Thane,Delivery
+ORD0042,21-04-2025,15:00:00,Spring Rolls,1,150,150,UPI,28,21,4,Bandra,Delivery
+ORD0043,20-03-2025,02:00:00,Paneer Tikka,3,200,600,UPI,55,12,,Thane,Delivery
+ORD0044,30-03-2025,02:00:00,Tandoori Chicken,3,320,960,Cash,38,13,4.3,Thane,Delivery
+ORD0045,21-02-2025,08:00:00,Choco Lava Cake,1,100,100,Credit Card,59,16,4.9,Bandra,Delivery
+ORD0046,01-01-2025,10:00:00,Chicken Biryani,1,300,300,Credit Card,44,11,,Andheri,Delivery
+ORD0047,23-01-2025,09:00:00,Tandoori Chicken,3,320,960,Cash,26,21,3.3,Powai,Delivery
+ORD0048,21-04-2025,19:00:00,Choco Lava Cake,1,100,100,Cash,,11,5,Bandra,Delivery
+ORD0049,12-01-2025,04:00:00,Spring Rolls,1,150,150,Credit Card,51,20,,Malad,Delivery
+ORD0050,28-04-2025,08:00:00,Spring Rolls,1,150,150,Credit Card,,12,4.4,Bandra,Delivery
+ORD0051,20-03-2025,02:00:00,Paneer Tikka,2,200,400,UPI,52,17,4.7,Malad,Delivery
+ORD0052,22-04-2025,07:00:00,Pasta Alfredo,2,220,440,Wallet,59,13,,Andheri,Delivery
+ORD0053,08-04-2025,15:00:00,Cold Coffee,2,90,180,Credit Card,44,12,4.9,Bandra,Dine-in
+ORD0054,18-01-2025,13:00:00,Pasta Alfredo,2,220,440,UPI,21,15,3.9,Colaba,Delivery
+ORD0055,01-03-2025,08:00:00,Paneer Tikka,1,200,200,Cash,,13,3.5,Bandra,Delivery
+ORD0056,21-01-2025,15:00:00,Choco Lava Cake,3,100,300,UPI,22,10,3.6,Powai,Takeaway
+ORD0057,17-02-2025,11:00:00,Pizza Margherita,3,250,750,Credit Card,41,16,3.5,Andheri,Delivery
+ORD0058,30-01-2025,05:00:00,Spring Rolls,2,150,300,Wallet,,22,4,Bandra,Takeaway
+ORD0059,08-01-2025,01:00:00,Chicken Biryani,1,300,300,Wallet,49,10,4.2,Powai,Dine-in
+ORD0060,04-03-2025,00:00:00,Cold Coffee,1,90,90,UPI,38,13,3,Andheri,Delivery
+ORD0061,18-02-2025,16:00:00,Pizza Margherita,2,250,500,Wallet,48,23,4.8,Colaba,Delivery
+ORD0062,08-04-2025,08:00:00,Veg Burger,1,120,120,UPI,43,22,3.9,Powai,Delivery
+ORD0063,22-02-2025,02:00:00,Paneer Tikka,1,200,200,Credit Card,40,16,3.5,Malad,Takeaway
+ORD0064,07-03-2025,17:00:00,Spring Rolls,1,150,150,Credit Card,,19,4.9,Powai,Delivery
+ORD0065,27-02-2025,02:00:00,Pasta Alfredo,2,220,440,Cash,43,11,4.2,Malad,Dine-in
+ORD0066,26-03-2025,22:00:00,Cold Coffee,2,90,180,Cash,46,19,4.8,Powai,Delivery
+ORD0067,17-01-2025,07:00:00,Cold Coffee,1,90,90,Cash,28,20,4.4,Malad,Dine-in
+ORD0068,08-02-2025,09:00:00,Veg Burger,3,120,360,Credit Card,45,12,,Powai,Dine-in
+ORD0069,19-02-2025,23:00:00,Paneer Tikka,1,200,200,Credit Card,26,18,4.3,Powai,Delivery
+ORD0070,20-01-2025,00:00:00,Pasta Alfredo,2,220,440,UPI,35,23,4.8,Colaba,Dine-in
+ORD0071,27-03-2025,14:00:00,Chicken Biryani,2,300,600,Credit Card,21,16,4.3,Powai,Delivery
+ORD0072,20-02-2025,21:00:00,Cold Coffee,2,90,180,Credit Card,41,10,3.1,Bandra,Delivery
+ORD0073,10-03-2025,14:00:00,Chicken Biryani,2,300,600,Cash,56,10,4.7,Thane,Delivery
+ORD0074,01-03-2025,11:00:00,Veg Burger,1,120,120,Credit Card,58,13,4.7,Andheri,Delivery
+ORD0075,05-04-2025,19:00:00,Mango Shake,2,110,220,Cash,54,16,,Thane,Delivery
+ORD0076,09-02-2025,19:00:00,Cold Coffee,1,90,90,Wallet,49,12,4.6,Malad,Delivery
+ORD0077,03-03-2025,18:00:00,Paneer Tikka,2,200,400,Wallet,45,14,3.4,Malad,Delivery
+ORD0078,02-03-2025,22:00:00,Pizza Margherita,3,250,750,UPI,,18,4.4,Bandra,Dine-in
+ORD0079,01-01-2025,00:00:00,Spring Rolls,3,150,450,Credit Card,,11,,Thane,Dine-in
+ORD0080,05-04-2025,21:00:00,Spring Rolls,1,150,150,Wallet,,17,4.9,Bandra,Dine-in
+ORD0081,01-01-2025,15:00:00,Mango Shake,1,110,110,Wallet,58,24,3.9,Malad,Delivery
+ORD0082,02-04-2025,22:00:00,Spring Rolls,3,150,450,Wallet,31,19,3.7,Andheri,Dine-in
+ORD0083,10-04-2025,21:00:00,Veg Burger,1,120,120,Credit Card,48,23,,Andheri,Delivery
+ORD0084,01-04-2025,04:00:00,Veg Burger,3,120,360,Wallet,49,23,5,Andheri,Delivery
+ORD0085,09-03-2025,11:00:00,Choco Lava Cake,2,100,200,Wallet,45,14,3.9,Colaba,Delivery
+ORD0086,02-02-2025,04:00:00,Tandoori Chicken,3,320,960,Cash,,19,4.2,Colaba,Delivery
+ORD0087,09-03-2025,03:00:00,Choco Lava Cake,2,100,200,Credit Card,50,19,,Colaba,Delivery
+ORD0088,19-01-2025,00:00:00,Spring Rolls,1,150,150,UPI,23,17,4.9,Colaba,Delivery
+ORD0089,02-01-2025,16:00:00,Choco Lava Cake,3,100,300,Wallet,39,17,4.4,Bandra,Takeaway
+ORD0090,04-02-2025,00:00:00,Spring Rolls,1,150,150,Cash,,22,4.1,Malad,Delivery
+ORD0091,10-04-2025,11:00:00,Cold Coffee,3,90,270,UPI,,10,4.9,Powai,Delivery
+ORD0092,14-03-2025,10:00:00,Veg Burger,1,120,120,Wallet,32,21,3.2,Colaba,Delivery
+ORD0093,02-01-2025,18:00:00,Cold Coffee,2,90,180,Credit Card,,12,3.7,Malad,Delivery
+ORD0094,30-03-2025,07:00:00,Choco Lava Cake,1,100,100,UPI,45,19,3,Malad,Delivery
+ORD0095,03-02-2025,18:00:00,Pizza Margherita,1,250,250,UPI,26,13,4.4,Bandra,Delivery
+ORD0096,23-04-2025,12:00:00,Mango Shake,3,110,330,Cash,48,17,4.5,Malad,Delivery
+ORD0097,21-01-2025,03:00:00,Choco Lava Cake,2,100,200,UPI,56,18,,Malad,Delivery
+ORD0098,24-01-2025,02:00:00,Chicken Biryani,1,300,300,Credit Card,54,13,3.7,Powai,Delivery
+ORD0099,12-04-2025,23:00:00,Cold Coffee,3,90,270,Wallet,,23,4.1,Thane,Dine-in
+ORD0100,12-01-2025,16:00:00,Veg Burger,3,120,360,Cash,32,16,4.5,Malad,Dine-in
+ORD0101,14-04-2025,16:00:00,Paneer Tikka,1,200,200,Cash,39,18,3.6,Powai,Delivery
+ORD0102,28-02-2025,18:00:00,Choco Lava Cake,1,100,100,Cash,,13,3,Andheri,Delivery
+ORD0103,14-04-2025,18:00:00,Choco Lava Cake,1,100,100,Wallet,26,21,4.9,Malad,Delivery
+ORD0104,21-02-2025,18:00:00,Pasta Alfredo,2,220,440,Wallet,35,14,3.2,Thane,Delivery
+ORD0105,12-01-2025,19:00:00,Veg Burger,3,120,360,Cash,40,13,4.9,Colaba,Delivery
+ORD0106,16-01-2025,06:00:00,Cold Coffee,1,90,90,Credit Card,58,23,,Bandra,Delivery
+ORD0107,04-04-2025,04:00:00,Choco Lava Cake,3,100,300,Credit Card,42,22,,Malad,Takeaway
+ORD0108,16-04-2025,10:00:00,Spring Rolls,2,150,300,Cash,31,18,4.5,Bandra,Dine-in
+ORD0109,17-04-2025,16:00:00,Mango Shake,1,110,110,UPI,57,16,3.9,Colaba,Delivery
+ORD0110,09-02-2025,09:00:00,Pizza Margherita,1,250,250,Cash,46,19,3.3,Bandra,Delivery
+ORD0111,29-01-2025,04:00:00,Tandoori Chicken,2,320,640,Credit Card,38,17,3.7,Colaba,Takeaway
+ORD0112,05-03-2025,21:00:00,Spring Rolls,1,150,150,Credit Card,26,18,4.2,Powai,Delivery
+ORD0113,05-02-2025,05:00:00,Paneer Tikka,3,200,600,UPI,38,22,3.8,Malad,Delivery
+ORD0114,08-02-2025,09:00:00,Veg Burger,2,120,240,Wallet,38,16,3.9,Thane,Delivery
+ORD0115,14-02-2025,12:00:00,Paneer Tikka,2,200,400,UPI,47,23,3.1,Powai,Delivery
+ORD0116,01-04-2025,07:00:00,Spring Rolls,1,150,150,UPI,58,10,,Thane,Delivery
+ORD0117,03-01-2025,12:00:00,Chicken Biryani,2,300,600,Wallet,44,17,4.1,Powai,Delivery
+ORD0118,26-04-2025,05:00:00,Mango Shake,2,110,220,Credit Card,51,22,3.1,Colaba,Delivery
+ORD0119,21-01-2025,15:00:00,Paneer Tikka,2,200,400,Wallet,40,20,4.8,Malad,Delivery
+ORD0120,05-02-2025,02:00:00,Chicken Biryani,3,300,900,Credit Card,39,18,4,Thane,Dine-in
+ORD0121,14-04-2025,16:00:00,Tandoori Chicken,2,320,640,UPI,34,24,5,Colaba,Delivery
+ORD0122,23-02-2025,21:00:00,Tandoori Chicken,3,320,960,Wallet,35,16,3.1,Thane,Takeaway
+ORD0123,12-01-2025,09:00:00,Paneer Tikka,2,200,400,UPI,31,17,4.2,Andheri,Delivery
+ORD0124,08-01-2025,03:00:00,Chicken Biryani,2,300,600,Cash,27,19,3.5,Malad,Delivery
+ORD0125,28-01-2025,04:00:00,Pasta Alfredo,1,220,220,Cash,55,20,4.4,Malad,Takeaway
+ORD0126,17-01-2025,08:00:00,Paneer Tikka,1,200,200,UPI,,14,4.6,Malad,Delivery
+ORD0127,01-04-2025,15:00:00,Veg Burger,1,120,120,Wallet,32,23,3.2,Bandra,Takeaway
+ORD0128,06-01-2025,17:00:00,Chicken Biryani,3,300,900,Cash,24,24,4.8,Thane,Dine-in
+ORD0129,10-01-2025,23:00:00,Tandoori Chicken,2,320,640,Credit Card,24,16,3.8,Powai,Dine-in
+ORD0130,27-04-2025,00:00:00,Pasta Alfredo,2,220,440,Wallet,51,24,3.3,Colaba,Dine-in
+ORD0131,25-03-2025,21:00:00,Tandoori Chicken,3,320,960,Credit Card,46,10,4.7,Malad,Dine-in
+ORD0132,07-04-2025,08:00:00,Tandoori Chicken,3,320,960,Cash,,24,3.5,Powai,Delivery
+ORD0133,21-04-2025,22:00:00,Chicken Biryani,2,300,600,Wallet,47,10,4.1,Powai,Delivery
+ORD0134,05-01-2025,05:00:00,Tandoori Chicken,3,320,960,Wallet,42,14,4.5,Andheri,Delivery
+ORD0135,14-03-2025,09:00:00,Cold Coffee,3,90,270,Credit Card,36,14,3.9,Bandra,Delivery
+ORD0136,19-04-2025,00:00:00,Mango Shake,3,110,330,Credit Card,32,13,3.5,Thane,Delivery
+ORD0137,22-04-2025,07:00:00,Paneer Tikka,2,200,400,Credit Card,47,24,3.2,Colaba,Takeaway
+ORD0138,26-01-2025,01:00:00,Pizza Margherita,2,250,500,Wallet,22,20,3.6,Powai,Dine-in
+ORD0139,05-03-2025,21:00:00,Mango Shake,1,110,110,Wallet,49,23,4.6,Thane,Delivery
+ORD0140,17-01-2025,15:00:00,Pasta Alfredo,3,220,660,Wallet,,24,3.8,Andheri,Takeaway
+ORD0141,10-04-2025,20:00:00,Tandoori Chicken,2,320,640,UPI,21,20,3.4,Andheri,Delivery
+ORD0142,07-02-2025,01:00:00,Paneer Tikka,2,200,400,UPI,,11,,Colaba,Takeaway
+ORD0143,07-04-2025,17:00:00,Chicken Biryani,2,300,600,Wallet,,24,3.9,Malad,Delivery
+ORD0144,03-03-2025,01:00:00,Mango Shake,1,110,110,Wallet,57,10,4.6,Colaba,Delivery
+ORD0145,30-01-2025,22:00:00,Tandoori Chicken,2,320,640,UPI,,12,4.4,Colaba,Delivery
+ORD0146,29-01-2025,03:00:00,Spring Rolls,2,150,300,Credit Card,,17,4.7,Powai,Dine-in
+ORD0147,17-01-2025,19:00:00,Tandoori Chicken,1,320,320,Wallet,,11,4.2,Colaba,Delivery
+ORD0148,06-03-2025,12:00:00,Spring Rolls,2,150,300,Wallet,30,12,4.1,Bandra,Takeaway
+ORD0149,23-01-2025,22:00:00,Veg Burger,3,120,360,Wallet,30,15,4.4,Andheri,Delivery
+ORD0150,04-01-2025,07:00:00,Mango Shake,1,110,110,Wallet,22,12,4,Malad,Takeaway
+ORD0151,01-02-2025,17:00:00,Mango Shake,1,110,110,Cash,38,14,,Powai,Takeaway
+ORD0152,05-01-2025,17:00:00,Mango Shake,2,110,220,Cash,41,14,4.1,Malad,Delivery
+ORD0153,05-01-2025,08:00:00,Chicken Biryani,2,300,600,Cash,53,10,,Powai,Dine-in
+ORD0154,18-03-2025,12:00:00,Cold Coffee,3,90,270,Cash,,18,,Thane,Delivery
+ORD0155,26-01-2025,14:00:00,Choco Lava Cake,1,100,100,Wallet,,15,3.2,Andheri,Delivery
+ORD0156,03-04-2025,10:00:00,Pasta Alfredo,3,220,660,UPI,36,19,4.7,Andheri,Dine-in
+ORD0157,08-01-2025,16:00:00,Paneer Tikka,3,200,600,Wallet,34,24,3.7,Andheri,Delivery
+ORD0158,26-03-2025,13:00:00,Pizza Margherita,2,250,500,Credit Card,47,16,4.1,Bandra,Delivery
+ORD0159,02-01-2025,12:00:00,Tandoori Chicken,2,320,640,UPI,33,20,3.5,Colaba,Dine-in
+ORD0160,07-01-2025,02:00:00,Veg Burger,3,120,360,Wallet,,16,4,Colaba,Dine-in
+ORD0161,20-04-2025,12:00:00,Mango Shake,2,110,220,Credit Card,57,12,,Colaba,Takeaway
+ORD0162,24-04-2025,14:00:00,Spring Rolls,1,150,150,UPI,56,21,,Thane,Delivery
+ORD0163,14-03-2025,06:00:00,Cold Coffee,1,90,90,Credit Card,36,16,3.2,Colaba,Takeaway
+ORD0164,13-02-2025,16:00:00,Paneer Tikka,1,200,200,UPI,39,18,4.4,Powai,Takeaway
+ORD0165,07-03-2025,08:00:00,Pasta Alfredo,1,220,220,Cash,,11,3.2,Powai,Delivery
+ORD0166,20-04-2025,21:00:00,Pizza Margherita,2,250,500,Wallet,,24,,Bandra,Dine-in
+ORD0167,08-01-2025,07:00:00,Choco Lava Cake,1,100,100,UPI,38,19,3.6,Malad,Dine-in
+ORD0168,06-01-2025,19:00:00,Chicken Biryani,2,300,600,Cash,,11,3.5,Powai,Dine-in
+ORD0169,28-02-2025,12:00:00,Pizza Margherita,2,250,500,Credit Card,56,18,3.5,Powai,Delivery
+ORD0170,22-01-2025,20:00:00,Cold Coffee,2,90,180,UPI,25,16,4,Powai,Delivery
+ORD0171,03-04-2025,10:00:00,Pasta Alfredo,2,220,440,UPI,49,24,3.1,Colaba,Takeaway
+ORD0172,09-01-2025,22:00:00,Pasta Alfredo,3,220,660,Credit Card,,12,3,Andheri,Delivery
+ORD0173,10-04-2025,03:00:00,Veg Burger,3,120,360,Wallet,,15,3.8,Powai,Delivery
+ORD0174,01-04-2025,10:00:00,Cold Coffee,3,90,270,Cash,25,15,3.5,Powai,Dine-in
+ORD0175,29-04-2025,05:00:00,Pasta Alfredo,3,220,660,Wallet,,23,,Andheri,Dine-in
+ORD0176,26-02-2025,01:00:00,Mango Shake,3,110,330,Cash,30,17,,Powai,Takeaway
+ORD0177,26-01-2025,18:00:00,Veg Burger,1,120,120,Cash,24,15,4.9,Malad,Delivery
+ORD0178,08-03-2025,18:00:00,Cold Coffee,1,90,90,Cash,39,10,,Powai,Takeaway
+ORD0179,12-01-2025,14:00:00,Paneer Tikka,1,200,200,Cash,45,23,3.6,Colaba,Delivery
+ORD0180,06-02-2025,10:00:00,Spring Rolls,3,150,450,Wallet,55,22,4.1,Colaba,Dine-in
+ORD0181,02-02-2025,05:00:00,Mango Shake,2,110,220,Wallet,,17,3.3,Malad,Delivery
+ORD0182,23-01-2025,09:00:00,Mango Shake,2,110,220,Wallet,,22,,Andheri,Takeaway
+ORD0183,09-02-2025,01:00:00,Choco Lava Cake,1,100,100,Credit Card,56,18,4.5,Andheri,Takeaway
+ORD0184,15-03-2025,14:00:00,Mango Shake,2,110,220,Cash,54,23,3.2,Thane,Takeaway
+ORD0185,09-03-2025,11:00:00,Pizza Margherita,2,250,500,Credit Card,33,14,4.5,Thane,Delivery
+ORD0186,09-01-2025,01:00:00,Spring Rolls,3,150,450,UPI,54,10,4.5,Bandra,Delivery
+ORD0187,22-01-2025,07:00:00,Chicken Biryani,3,300,900,Cash,56,23,,Bandra,Delivery
+ORD0188,01-03-2025,02:00:00,Chicken Biryani,1,300,300,Cash,56,14,3.5,Andheri,Delivery
+ORD0189,18-03-2025,03:00:00,Veg Burger,1,120,120,Credit Card,44,11,4.6,Bandra,Dine-in
+ORD0190,08-02-2025,07:00:00,Spring Rolls,2,150,300,Cash,51,12,4.2,Powai,Delivery
+ORD0191,06-04-2025,22:00:00,Paneer Tikka,3,200,600,Wallet,34,10,,Andheri,Dine-in
+ORD0192,25-01-2025,16:00:00,Spring Rolls,1,150,150,Credit Card,21,23,,Andheri,Takeaway
+ORD0193,22-02-2025,07:00:00,Cold Coffee,3,90,270,Wallet,58,12,3.9,Colaba,Delivery
+ORD0194,07-03-2025,06:00:00,Paneer Tikka,3,200,600,Credit Card,27,19,3.3,Powai,Dine-in
+ORD0195,15-01-2025,14:00:00,Tandoori Chicken,1,320,320,Credit Card,52,13,4.5,Powai,Delivery
+ORD0196,27-01-2025,03:00:00,Tandoori Chicken,1,320,320,Wallet,57,18,3.6,Malad,Dine-in
+ORD0197,10-04-2025,22:00:00,Spring Rolls,1,150,150,UPI,23,15,,Colaba,Delivery
+ORD0198,06-03-2025,09:00:00,Mango Shake,1,110,110,Wallet,29,10,3.2,Colaba,Delivery
+ORD0199,13-01-2025,14:00:00,Pasta Alfredo,1,220,220,Credit Card,,17,4.2,Colaba,Delivery
+ORD0200,15-01-2025,07:00:00,Paneer Tikka,1,200,200,Cash,48,24,3.8,Powai,Dine-in
+ORD0201,14-02-2025,01:00:00,Spring Rolls,3,150,450,Cash,50,12,4.4,Powai,Dine-in
+ORD0202,05-02-2025,10:00:00,Cold Coffee,3,90,270,Credit Card,,14,,Colaba,Takeaway
+ORD0203,20-01-2025,10:00:00,Pizza Margherita,2,250,500,Credit Card,29,17,4.2,Thane,Delivery
+ORD0204,12-03-2025,22:00:00,Chicken Biryani,3,300,900,Wallet,45,23,4.2,Thane,Delivery
+ORD0205,30-03-2025,12:00:00,Pasta Alfredo,2,220,440,UPI,,11,4.2,Thane,Dine-in
+ORD0206,20-04-2025,07:00:00,Spring Rolls,3,150,450,Cash,31,21,4.1,Malad,Delivery
+ORD0207,08-03-2025,04:00:00,Chicken Biryani,1,300,300,Credit Card,27,24,3.3,Powai,Delivery
+ORD0208,01-04-2025,08:00:00,Chicken Biryani,2,300,600,UPI,48,23,4.9,Bandra,Dine-in
+ORD0209,26-03-2025,10:00:00,Pizza Margherita,3,250,750,Cash,20,23,3.5,Colaba,Delivery
+ORD0210,30-03-2025,13:00:00,Chicken Biryani,2,300,600,Credit Card,42,18,3.7,Thane,Delivery
+ORD0211,23-02-2025,22:00:00,Pizza Margherita,3,250,750,UPI,59,24,3.8,Malad,Delivery
+ORD0212,13-03-2025,20:00:00,Mango Shake,1,110,110,Wallet,29,13,4.6,Powai,Delivery
+ORD0213,26-01-2025,08:00:00,Spring Rolls,3,150,450,Cash,44,19,4.8,Malad,Dine-in
+ORD0214,02-01-2025,06:00:00,Mango Shake,2,110,220,Credit Card,46,11,4.8,Thane,Delivery
+ORD0215,12-02-2025,11:00:00,Veg Burger,3,120,360,Credit Card,,12,3.5,Powai,Delivery
+ORD0216,25-01-2025,06:00:00,Paneer Tikka,2,200,400,Cash,43,10,3.7,Bandra,Delivery
+ORD0217,03-03-2025,10:00:00,Veg Burger,2,120,240,Credit Card,45,21,,Andheri,Delivery
+ORD0218,23-04-2025,20:00:00,Mango Shake,1,110,110,Cash,,16,5,Thane,Delivery
+ORD0219,14-04-2025,16:00:00,Cold Coffee,2,90,180,Credit Card,41,21,4.1,Powai,Delivery
+ORD0220,13-04-2025,16:00:00,Tandoori Chicken,3,320,960,Wallet,,10,,Andheri,Delivery
+ORD0221,05-04-2025,12:00:00,Paneer Tikka,2,200,400,UPI,42,12,3.4,Andheri,Delivery
+ORD0222,23-03-2025,16:00:00,Pasta Alfredo,1,220,220,Credit Card,48,23,4.7,Andheri,Delivery
+ORD0223,19-01-2025,17:00:00,Paneer Tikka,1,200,200,UPI,,23,4.4,Malad,Takeaway
+ORD0224,23-04-2025,01:00:00,Chicken Biryani,2,300,600,UPI,47,10,3.8,Bandra,Dine-in
+ORD0225,07-02-2025,18:00:00,Paneer Tikka,3,200,600,UPI,,13,3.4,Colaba,Dine-in
+ORD0226,29-01-2025,22:00:00,Tandoori Chicken,3,320,960,Wallet,22,19,,Malad,Dine-in
+ORD0227,14-03-2025,18:00:00,Tandoori Chicken,2,320,640,Credit Card,,11,3.8,Bandra,Delivery
+ORD0228,27-03-2025,22:00:00,Mango Shake,2,110,220,Wallet,26,22,3.8,Thane,Delivery
+ORD0229,26-02-2025,22:00:00,Spring Rolls,3,150,450,Cash,43,16,4.3,Andheri,Delivery
+ORD0230,12-03-2025,21:00:00,Pasta Alfredo,1,220,220,Cash,56,12,,Andheri,Dine-in
+ORD0231,20-02-2025,00:00:00,Spring Rolls,3,150,450,Wallet,27,11,4.6,Malad,Takeaway
+ORD0232,28-03-2025,13:00:00,Mango Shake,2,110,220,UPI,35,13,4.9,Bandra,Takeaway
+ORD0233,23-02-2025,20:00:00,Mango Shake,2,110,220,Cash,,24,3.6,Malad,Delivery
+ORD0234,22-03-2025,06:00:00,Chicken Biryani,2,300,600,Cash,26,10,3.4,Colaba,Delivery
+ORD0235,19-01-2025,15:00:00,Tandoori Chicken,1,320,320,UPI,38,13,,Colaba,Delivery
+ORD0236,29-01-2025,17:00:00,Choco Lava Cake,2,100,200,Cash,20,24,4.2,Andheri,Delivery
+ORD0237,11-01-2025,09:00:00,Spring Rolls,3,150,450,Wallet,21,12,4.2,Malad,Takeaway
+ORD0238,12-01-2025,19:00:00,Tandoori Chicken,1,320,320,UPI,56,15,4.5,Bandra,Takeaway
+ORD0239,09-01-2025,01:00:00,Pasta Alfredo,1,220,220,Wallet,54,13,4.9,Andheri,Delivery
+ORD0240,17-04-2025,23:00:00,Cold Coffee,1,90,90,Credit Card,,19,4.1,Malad,Takeaway
+ORD0241,28-02-2025,13:00:00,Spring Rolls,3,150,450,Cash,51,10,4,Powai,Delivery
+ORD0242,21-03-2025,13:00:00,Pasta Alfredo,1,220,220,UPI,,17,4.4,Colaba,Delivery
+ORD0243,25-01-2025,06:00:00,Chicken Biryani,1,300,300,UPI,41,20,3.8,Andheri,Delivery
+ORD0244,26-01-2025,12:00:00,Spring Rolls,2,150,300,Cash,42,14,,Thane,Delivery
+ORD0245,15-03-2025,05:00:00,Cold Coffee,2,90,180,UPI,40,19,4.2,Thane,Dine-in
+ORD0246,07-02-2025,01:00:00,Chicken Biryani,1,300,300,Wallet,56,18,4,Malad,Delivery
+ORD0247,16-03-2025,22:00:00,Mango Shake,1,110,110,Credit Card,41,14,3.5,Bandra,Delivery
+ORD0248,31-01-2025,05:00:00,Pasta Alfredo,3,220,660,Wallet,,17,3.5,Malad,Takeaway
+ORD0249,18-04-2025,20:00:00,Mango Shake,3,110,330,Wallet,29,22,4.7,Thane,Delivery
+ORD0250,25-03-2025,13:00:00,Chicken Biryani,2,300,600,UPI,,21,4.9,Powai,Delivery
+ORD0251,05-03-2025,18:00:00,Mango Shake,1,110,110,Credit Card,55,12,3.5,Thane,Takeaway
+ORD0252,21-01-2025,10:00:00,Pasta Alfredo,3,220,660,Cash,55,10,4.4,Thane,Delivery
+ORD0253,13-04-2025,02:00:00,Cold Coffee,2,90,180,Cash,,11,3.8,Colaba,Takeaway
+ORD0254,24-01-2025,21:00:00,Pizza Margherita,2,250,500,Wallet,24,17,3.4,Bandra,Delivery
+ORD0255,05-02-2025,14:00:00,Paneer Tikka,3,200,600,Credit Card,54,13,3.1,Andheri,Dine-in
+ORD0256,02-03-2025,12:00:00,Choco Lava Cake,3,100,300,UPI,53,18,4.5,Colaba,Dine-in
+ORD0257,26-04-2025,08:00:00,Chicken Biryani,1,300,300,Wallet,59,10,3.8,Andheri,Delivery
+ORD0258,01-03-2025,10:00:00,Veg Burger,2,120,240,UPI,44,16,3.2,Thane,Delivery
+ORD0259,23-04-2025,04:00:00,Pasta Alfredo,3,220,660,UPI,49,15,4.2,Colaba,Dine-in
+ORD0260,19-01-2025,04:00:00,Tandoori Chicken,3,320,960,Wallet,36,19,4.4,Colaba,Delivery
+ORD0261,22-04-2025,14:00:00,Pizza Margherita,2,250,500,UPI,35,17,4.5,Andheri,Dine-in
+ORD0262,04-04-2025,20:00:00,Veg Burger,1,120,120,Wallet,42,14,4.4,Thane,Takeaway
+ORD0263,10-03-2025,07:00:00,Paneer Tikka,1,200,200,Cash,37,18,4.3,Malad,Delivery
+ORD0264,28-02-2025,08:00:00,Choco Lava Cake,1,100,100,Credit Card,45,24,3.1,Andheri,Delivery
+ORD0265,16-01-2025,06:00:00,Paneer Tikka,1,200,200,Credit Card,42,19,4.1,Powai,Dine-in
+ORD0266,07-01-2025,13:00:00,Chicken Biryani,3,300,900,Wallet,,14,4.5,Bandra,Dine-in
+ORD0267,24-04-2025,15:00:00,Paneer Tikka,2,200,400,Wallet,42,22,3.9,Bandra,Takeaway
+ORD0268,03-04-2025,19:00:00,Choco Lava Cake,3,100,300,Credit Card,54,11,,Thane,Delivery
+ORD0269,28-02-2025,09:00:00,Pizza Margherita,3,250,750,UPI,36,23,,Andheri,Takeaway
+ORD0270,31-01-2025,23:00:00,Choco Lava Cake,3,100,300,Credit Card,53,12,4.4,Colaba,Dine-in
+ORD0271,09-02-2025,22:00:00,Cold Coffee,3,90,270,Credit Card,,21,4.1,Colaba,Delivery
+ORD0272,29-04-2025,16:00:00,Spring Rolls,1,150,150,Credit Card,,15,3.6,Andheri,Delivery
+ORD0273,22-03-2025,00:00:00,Chicken Biryani,1,300,300,Credit Card,21,16,3.9,Malad,Delivery
+ORD0274,03-02-2025,22:00:00,Mango Shake,1,110,110,Wallet,32,11,4.9,Colaba,Delivery
+ORD0275,08-04-2025,06:00:00,Choco Lava Cake,2,100,200,Wallet,48,23,,Andheri,Delivery
+ORD0276,22-04-2025,20:00:00,Cold Coffee,1,90,90,Credit Card,35,17,3.5,Bandra,Takeaway
+ORD0277,10-01-2025,06:00:00,Chicken Biryani,1,300,300,Wallet,20,23,3,Malad,Delivery
+ORD0278,14-02-2025,13:00:00,Cold Coffee,2,90,180,Cash,23,11,3.5,Powai,Delivery
+ORD0279,25-01-2025,15:00:00,Paneer Tikka,1,200,200,UPI,34,18,3.2,Malad,Delivery
+ORD0280,28-03-2025,03:00:00,Paneer Tikka,3,200,600,Cash,56,22,3.5,Colaba,Takeaway
+ORD0281,10-03-2025,06:00:00,Paneer Tikka,3,200,600,Credit Card,43,20,4.8,Bandra,Takeaway
+ORD0282,07-04-2025,06:00:00,Pasta Alfredo,3,220,660,Wallet,27,13,4.7,Andheri,Delivery
+ORD0283,23-02-2025,20:00:00,Mango Shake,3,110,330,Cash,,22,,Powai,Dine-in
+ORD0284,19-04-2025,09:00:00,Paneer Tikka,3,200,600,Credit Card,,11,,Malad,Dine-in
+ORD0285,26-02-2025,08:00:00,Chicken Biryani,1,300,300,Credit Card,22,17,3.7,Bandra,Dine-in
+ORD0286,05-01-2025,21:00:00,Veg Burger,3,120,360,Wallet,42,10,4,Powai,Delivery
+ORD0287,20-01-2025,16:00:00,Spring Rolls,1,150,150,UPI,54,11,4,Powai,Delivery
+ORD0288,17-01-2025,23:00:00,Mango Shake,3,110,330,Wallet,51,12,3.4,Andheri,Delivery
+ORD0289,29-04-2025,14:00:00,Choco Lava Cake,1,100,100,Cash,28,13,4.2,Powai,Delivery
+ORD0290,07-04-2025,10:00:00,Spring Rolls,1,150,150,UPI,22,20,3.3,Thane,Takeaway
+ORD0291,09-01-2025,02:00:00,Pizza Margherita,1,250,250,Cash,53,21,3.1,Bandra,Delivery
+ORD0292,19-03-2025,07:00:00,Veg Burger,1,120,120,Credit Card,,14,4.5,Powai,Dine-in
+ORD0293,07-04-2025,23:00:00,Pasta Alfredo,3,220,660,UPI,57,17,4.4,Bandra,Dine-in
+ORD0294,17-02-2025,17:00:00,Tandoori Chicken,2,320,640,Cash,56,21,3.2,Thane,Delivery
+ORD0295,28-01-2025,04:00:00,Tandoori Chicken,1,320,320,Credit Card,,10,3.1,Andheri,Delivery
+ORD0296,14-02-2025,18:00:00,Tandoori Chicken,2,320,640,Credit Card,22,17,4.3,Colaba,Dine-in
+ORD0297,09-02-2025,12:00:00,Pizza Margherita,1,250,250,Wallet,,10,4.8,Malad,Takeaway
+ORD0298,19-01-2025,15:00:00,Mango Shake,1,110,110,UPI,,20,4.7,Powai,Delivery
+ORD0299,10-02-2025,12:00:00,Pizza Margherita,3,250,750,UPI,44,14,4.4,Bandra,Delivery
+ORD0300,03-03-2025,05:00:00,Chicken Biryani,3,300,900,Credit Card,,14,4.8,Powai,Takeaway
+ORD0301,27-02-2025,18:00:00,Chicken Biryani,3,300,900,Credit Card,42,19,3.3,Bandra,Delivery
+ORD0302,16-04-2025,20:00:00,Pasta Alfredo,2,220,440,Wallet,58,24,3,Powai,Takeaway
+ORD0303,02-01-2025,13:00:00,Tandoori Chicken,1,320,320,Wallet,48,21,,Bandra,Dine-in
+ORD0304,08-02-2025,01:00:00,Tandoori Chicken,1,320,320,Credit Card,46,10,4.1,Thane,Delivery
+ORD0305,13-04-2025,01:00:00,Pasta Alfredo,1,220,220,Wallet,54,15,,Thane,Delivery
+ORD0306,23-03-2025,06:00:00,Veg Burger,2,120,240,UPI,51,11,3.7,Powai,Delivery
+ORD0307,01-03-2025,14:00:00,Mango Shake,2,110,220,Credit Card,56,22,4.6,Colaba,Delivery
+ORD0308,20-01-2025,03:00:00,Pasta Alfredo,2,220,440,Credit Card,23,20,3.3,Colaba,Delivery
+ORD0309,12-01-2025,21:00:00,Spring Rolls,1,150,150,UPI,29,15,3.7,Colaba,Delivery
+ORD0310,30-03-2025,23:00:00,Spring Rolls,3,150,450,Credit Card,,11,4.7,Thane,Delivery
+ORD0311,04-03-2025,14:00:00,Paneer Tikka,1,200,200,Wallet,31,13,,Thane,Takeaway
+ORD0312,08-04-2025,19:00:00,Chicken Biryani,1,300,300,UPI,31,16,3.1,Andheri,Delivery
+ORD0313,02-02-2025,05:00:00,Chicken Biryani,3,300,900,Credit Card,,24,4.6,Bandra,Dine-in
+ORD0314,15-03-2025,22:00:00,Spring Rolls,2,150,300,UPI,53,23,3.9,Bandra,Delivery
+ORD0315,04-01-2025,16:00:00,Tandoori Chicken,3,320,960,Credit Card,32,18,3.3,Thane,Delivery
+ORD0316,28-04-2025,10:00:00,Tandoori Chicken,2,320,640,Credit Card,33,13,4.3,Powai,Dine-in
+ORD0317,27-01-2025,02:00:00,Cold Coffee,1,90,90,Credit Card,47,22,4.9,Malad,Dine-in
+ORD0318,20-03-2025,04:00:00,Tandoori Chicken,3,320,960,Wallet,39,15,4.5,Thane,Delivery
+ORD0319,09-03-2025,02:00:00,Pizza Margherita,3,250,750,Wallet,20,19,4.8,Thane,Dine-in
+ORD0320,15-01-2025,01:00:00,Cold Coffee,1,90,90,UPI,,12,3.1,Thane,Takeaway
+ORD0321,25-01-2025,23:00:00,Paneer Tikka,2,200,400,UPI,34,21,3.9,Bandra,Delivery
+ORD0322,12-03-2025,13:00:00,Veg Burger,1,120,120,Wallet,36,22,4.6,Colaba,Takeaway
+ORD0323,19-03-2025,13:00:00,Pizza Margherita,2,250,500,UPI,26,12,4.6,Malad,Delivery
+ORD0324,13-02-2025,20:00:00,Cold Coffee,2,90,180,Credit Card,,12,3.4,Thane,Delivery
+ORD0325,15-01-2025,13:00:00,Choco Lava Cake,3,100,300,Credit Card,36,23,4.4,Bandra,Delivery
+ORD0326,09-04-2025,08:00:00,Pasta Alfredo,2,220,440,UPI,,18,,Powai,Dine-in
+ORD0327,01-03-2025,21:00:00,Mango Shake,2,110,220,Credit Card,21,17,3.9,Malad,Delivery
+ORD0328,04-03-2025,12:00:00,Paneer Tikka,1,200,200,Wallet,,17,3.9,Powai,Takeaway
+ORD0329,03-04-2025,17:00:00,Chicken Biryani,2,300,600,Credit Card,50,15,,Andheri,Delivery
+ORD0330,01-02-2025,10:00:00,Mango Shake,1,110,110,Credit Card,44,10,4.9,Thane,Delivery
+ORD0331,10-02-2025,07:00:00,Spring Rolls,3,150,450,Credit Card,41,12,3.2,Thane,Delivery
+ORD0332,17-01-2025,11:00:00,Pizza Margherita,1,250,250,UPI,51,24,4,Colaba,Delivery
+ORD0333,26-03-2025,19:00:00,Mango Shake,1,110,110,Cash,29,17,3,Thane,Takeaway
+ORD0334,06-04-2025,01:00:00,Chicken Biryani,1,300,300,Wallet,52,18,,Colaba,Delivery
+ORD0335,17-03-2025,00:00:00,Veg Burger,1,120,120,Credit Card,45,15,3.6,Andheri,Dine-in
+ORD0336,07-02-2025,06:00:00,Veg Burger,2,120,240,Cash,,23,4.4,Bandra,Takeaway
+ORD0337,15-01-2025,01:00:00,Pizza Margherita,2,250,500,Wallet,59,20,3.2,Malad,Takeaway
+ORD0338,06-01-2025,08:00:00,Pasta Alfredo,2,220,440,Cash,28,16,4.2,Andheri,Takeaway
+ORD0339,10-02-2025,17:00:00,Choco Lava Cake,2,100,200,Credit Card,47,23,4.6,Thane,Delivery
+ORD0340,20-04-2025,06:00:00,Chicken Biryani,3,300,900,Wallet,39,13,4.2,Powai,Delivery
+ORD0341,22-01-2025,02:00:00,Mango Shake,3,110,330,Credit Card,33,20,4.4,Powai,Dine-in
+ORD0342,12-01-2025,22:00:00,Tandoori Chicken,1,320,320,UPI,44,22,,Colaba,Dine-in
+ORD0343,24-04-2025,18:00:00,Spring Rolls,3,150,450,Credit Card,55,22,3.4,Bandra,Takeaway
+ORD0344,28-04-2025,20:00:00,Mango Shake,3,110,330,Credit Card,,12,3.3,Colaba,Delivery
+ORD0345,10-03-2025,17:00:00,Pasta Alfredo,3,220,660,Credit Card,41,14,5,Andheri,Delivery
+ORD0346,14-04-2025,02:00:00,Choco Lava Cake,2,100,200,UPI,54,22,3.1,Powai,Delivery
+ORD0347,03-03-2025,14:00:00,Spring Rolls,1,150,150,Credit Card,26,21,3.3,Powai,Delivery
+ORD0348,25-03-2025,23:00:00,Veg Burger,1,120,120,UPI,,13,4.5,Colaba,Dine-in
+ORD0349,20-01-2025,23:00:00,Tandoori Chicken,2,320,640,Credit Card,51,18,3.9,Colaba,Dine-in
+ORD0350,26-04-2025,01:00:00,Veg Burger,2,120,240,UPI,34,11,4.6,Andheri,Delivery
+ORD0351,08-02-2025,09:00:00,Spring Rolls,3,150,450,Credit Card,31,12,4.2,Andheri,Dine-in
+ORD0352,09-02-2025,20:00:00,Spring Rolls,3,150,450,UPI,52,12,4.6,Powai,Takeaway
+ORD0353,09-04-2025,15:00:00,Mango Shake,2,110,220,Cash,42,19,3.5,Colaba,Delivery
+ORD0354,18-03-2025,01:00:00,Spring Rolls,3,150,450,Wallet,,14,4.7,Thane,Delivery
+ORD0355,18-04-2025,08:00:00,Tandoori Chicken,2,320,640,Cash,33,17,4.2,Powai,Dine-in
+ORD0356,24-03-2025,01:00:00,Cold Coffee,3,90,270,Credit Card,,15,4.3,Thane,Delivery
+ORD0357,29-03-2025,01:00:00,Cold Coffee,3,90,270,Credit Card,56,14,3.7,Andheri,Takeaway
+ORD0358,09-02-2025,11:00:00,Paneer Tikka,1,200,200,Wallet,42,24,3.5,Bandra,Dine-in
+ORD0359,10-01-2025,02:00:00,Cold Coffee,2,90,180,Credit Card,,23,3.7,Colaba,Delivery
+ORD0360,02-04-2025,09:00:00,Spring Rolls,2,150,300,UPI,20,14,3.5,Bandra,Takeaway
+ORD0361,12-02-2025,11:00:00,Cold Coffee,1,90,90,UPI,39,21,3.1,Andheri,Dine-in
+ORD0362,06-02-2025,14:00:00,Pasta Alfredo,1,220,220,Wallet,31,14,4.6,Thane,Delivery
+ORD0363,29-04-2025,11:00:00,Veg Burger,3,120,360,UPI,34,15,3.4,Bandra,Takeaway
+ORD0364,01-03-2025,19:00:00,Paneer Tikka,2,200,400,Cash,,23,3.1,Andheri,Delivery
+ORD0365,06-02-2025,19:00:00,Paneer Tikka,2,200,400,Cash,48,10,3.2,Malad,Dine-in
+ORD0366,10-03-2025,04:00:00,Pizza Margherita,1,250,250,UPI,24,10,4,Bandra,Delivery
+ORD0367,18-03-2025,11:00:00,Pizza Margherita,2,250,500,UPI,39,14,4,Malad,Delivery
+ORD0368,12-02-2025,01:00:00,Tandoori Chicken,1,320,320,Credit Card,48,18,,Malad,Delivery
+ORD0369,08-02-2025,23:00:00,Cold Coffee,3,90,270,Credit Card,42,21,4.1,Thane,Takeaway
+ORD0370,23-01-2025,12:00:00,Chicken Biryani,2,300,600,Wallet,27,11,3.4,Powai,Takeaway
+ORD0371,28-04-2025,07:00:00,Cold Coffee,1,90,90,Credit Card,51,15,4.7,Powai,Delivery
+ORD0372,26-03-2025,14:00:00,Spring Rolls,2,150,300,Wallet,20,16,5,Malad,Delivery
+ORD0373,12-02-2025,09:00:00,Mango Shake,2,110,220,Cash,37,10,,Thane,Delivery
+ORD0374,26-01-2025,07:00:00,Cold Coffee,3,90,270,UPI,59,10,3.1,Andheri,Takeaway
+ORD0375,12-03-2025,13:00:00,Choco Lava Cake,1,100,100,Cash,20,12,4.9,Andheri,Delivery
+ORD0376,14-01-2025,20:00:00,Tandoori Chicken,1,320,320,Cash,,18,3.2,Thane,Dine-in
+ORD0377,01-04-2025,01:00:00,Spring Rolls,2,150,300,UPI,25,24,,Powai,Delivery
+ORD0378,13-03-2025,00:00:00,Pizza Margherita,1,250,250,UPI,,18,,Andheri,Dine-in
+ORD0379,17-02-2025,12:00:00,Mango Shake,1,110,110,UPI,32,24,4.5,Colaba,Takeaway
+ORD0380,08-03-2025,01:00:00,Spring Rolls,1,150,150,Credit Card,57,23,4.9,Thane,Dine-in
+ORD0381,19-01-2025,05:00:00,Pasta Alfredo,2,220,440,Credit Card,37,22,,Colaba,Delivery
+ORD0382,14-04-2025,22:00:00,Mango Shake,3,110,330,Credit Card,,22,4.6,Colaba,Delivery
+ORD0383,28-03-2025,21:00:00,Veg Burger,3,120,360,UPI,44,14,3.6,Thane,Delivery
+ORD0384,16-03-2025,06:00:00,Cold Coffee,3,90,270,Credit Card,40,12,3.8,Colaba,Delivery
+ORD0385,29-03-2025,00:00:00,Veg Burger,1,120,120,Wallet,51,10,,Powai,Delivery
+ORD0386,04-02-2025,11:00:00,Mango Shake,2,110,220,Wallet,45,20,4.2,Powai,Delivery
+ORD0387,19-04-2025,13:00:00,Spring Rolls,2,150,300,Wallet,21,23,,Malad,Takeaway
+ORD0388,09-01-2025,02:00:00,Spring Rolls,1,150,150,Cash,,19,4.9,Malad,Delivery
+ORD0389,06-03-2025,05:00:00,Pizza Margherita,1,250,250,Wallet,48,19,3.2,Andheri,Dine-in
+ORD0390,05-01-2025,01:00:00,Pizza Margherita,1,250,250,UPI,34,21,4,Thane,Dine-in
+ORD0391,12-02-2025,15:00:00,Tandoori Chicken,3,320,960,Wallet,25,23,4.4,Thane,Delivery
+ORD0392,12-02-2025,12:00:00,Pizza Margherita,1,250,250,Cash,42,20,3,Powai,Delivery
+ORD0393,16-02-2025,20:00:00,Cold Coffee,3,90,270,UPI,44,13,4.9,Bandra,Delivery
+ORD0394,15-01-2025,03:00:00,Tandoori Chicken,1,320,320,Credit Card,,22,3.7,Colaba,Delivery
+ORD0395,03-02-2025,13:00:00,Cold Coffee,1,90,90,Wallet,23,14,,Bandra,Delivery
+ORD0396,21-02-2025,13:00:00,Paneer Tikka,3,200,600,Cash,48,24,4.1,Thane,Delivery
+ORD0397,08-01-2025,15:00:00,Pizza Margherita,2,250,500,UPI,55,23,4.4,Malad,Dine-in
+ORD0398,18-02-2025,12:00:00,Tandoori Chicken,2,320,640,Cash,,18,,Bandra,Delivery
+ORD0399,03-04-2025,10:00:00,Tandoori Chicken,3,320,960,Wallet,50,21,,Malad,Takeaway
+ORD0400,14-03-2025,06:00:00,Spring Rolls,1,150,150,Cash,50,16,,Andheri,Takeaway
+ORD0401,03-03-2025,23:00:00,Tandoori Chicken,1,320,320,UPI,55,13,4,Colaba,Takeaway
+ORD0402,07-01-2025,21:00:00,Pasta Alfredo,1,220,220,UPI,32,16,4.3,Colaba,Dine-in
+ORD0403,21-01-2025,21:00:00,Spring Rolls,1,150,150,Credit Card,45,18,4.3,Malad,Dine-in
+ORD0404,28-03-2025,09:00:00,Spring Rolls,1,150,150,Credit Card,45,20,4.6,Andheri,Delivery
+ORD0405,19-02-2025,23:00:00,Tandoori Chicken,3,320,960,Wallet,,13,3.8,Malad,Delivery
+ORD0406,14-03-2025,17:00:00,Mango Shake,3,110,330,Wallet,55,19,3.9,Colaba,Delivery
+ORD0407,23-04-2025,04:00:00,Tandoori Chicken,3,320,960,Wallet,54,21,4.7,Bandra,Dine-in
+ORD0408,28-04-2025,20:00:00,Paneer Tikka,1,200,200,Credit Card,41,14,4.3,Malad,Delivery
+ORD0409,01-04-2025,06:00:00,Cold Coffee,3,90,270,Credit Card,29,18,3.8,Powai,Delivery
+ORD0410,26-02-2025,01:00:00,Pasta Alfredo,3,220,660,Cash,26,14,4.4,Colaba,Delivery
+ORD0411,11-02-2025,21:00:00,Spring Rolls,1,150,150,Wallet,58,18,4.4,Thane,Delivery
+ORD0412,12-04-2025,23:00:00,Tandoori Chicken,2,320,640,Credit Card,,12,4.2,Colaba,Delivery
+ORD0413,11-04-2025,09:00:00,Paneer Tikka,3,200,600,UPI,55,17,4.3,Colaba,Delivery
+ORD0414,05-02-2025,02:00:00,Pasta Alfredo,1,220,220,Credit Card,27,10,3.5,Bandra,Delivery
+ORD0415,10-02-2025,06:00:00,Cold Coffee,1,90,90,Credit Card,21,21,4.6,Powai,Takeaway
+ORD0416,27-01-2025,20:00:00,Mango Shake,2,110,220,UPI,27,11,4.4,Andheri,Takeaway
+ORD0417,13-02-2025,02:00:00,Choco Lava Cake,2,100,200,Wallet,,15,3.1,Powai,Delivery
+ORD0418,13-02-2025,01:00:00,Tandoori Chicken,2,320,640,UPI,36,12,4.5,Malad,Delivery
+ORD0419,30-01-2025,19:00:00,Choco Lava Cake,2,100,200,UPI,,21,,Powai,Dine-in
+ORD0420,27-02-2025,03:00:00,Mango Shake,1,110,110,UPI,32,22,4.4,Colaba,Delivery
+ORD0421,24-02-2025,15:00:00,Tandoori Chicken,2,320,640,UPI,49,18,4.6,Malad,Dine-in
+ORD0422,12-01-2025,16:00:00,Pizza Margherita,3,250,750,Wallet,,23,3.5,Powai,Dine-in
+ORD0423,01-04-2025,18:00:00,Paneer Tikka,2,200,400,Wallet,24,13,4.9,Powai,Delivery
+ORD0424,17-04-2025,00:00:00,Chicken Biryani,1,300,300,Wallet,49,14,3.2,Thane,Delivery
+ORD0425,22-01-2025,17:00:00,Cold Coffee,3,90,270,Wallet,51,10,4.2,Powai,Dine-in
+ORD0426,16-03-2025,05:00:00,Spring Rolls,2,150,300,Cash,33,13,3.6,Malad,Delivery
+ORD0427,23-04-2025,12:00:00,Tandoori Chicken,2,320,640,Cash,40,11,4.9,Malad,Delivery
+ORD0428,13-03-2025,00:00:00,Choco Lava Cake,3,100,300,Wallet,22,13,3.6,Bandra,Delivery
+ORD0429,26-01-2025,03:00:00,Spring Rolls,2,150,300,UPI,25,12,4.6,Malad,Delivery
+ORD0430,15-01-2025,21:00:00,Spring Rolls,1,150,150,UPI,31,24,3.8,Andheri,Delivery
+ORD0431,07-02-2025,17:00:00,Paneer Tikka,1,200,200,Cash,,12,4.3,Powai,Delivery
+ORD0432,15-04-2025,13:00:00,Mango Shake,2,110,220,UPI,22,16,3.6,Andheri,Delivery
+ORD0433,13-03-2025,14:00:00,Mango Shake,1,110,110,Credit Card,54,11,3.3,Malad,Delivery
+ORD0434,04-02-2025,17:00:00,Choco Lava Cake,2,100,200,Cash,39,11,4.3,Malad,Delivery
+ORD0435,25-01-2025,01:00:00,Chicken Biryani,1,300,300,UPI,52,13,4.2,Colaba,Delivery
+ORD0436,05-03-2025,13:00:00,Cold Coffee,2,90,180,UPI,22,12,3.8,Colaba,Delivery
+ORD0437,25-01-2025,12:00:00,Tandoori Chicken,1,320,320,UPI,53,17,4,Andheri,Dine-in
+ORD0438,08-03-2025,14:00:00,Veg Burger,1,120,120,Credit Card,31,21,3.6,Andheri,Delivery
+ORD0439,18-03-2025,19:00:00,Spring Rolls,2,150,300,UPI,48,21,4.7,Andheri,Delivery
+ORD0440,01-02-2025,10:00:00,Mango Shake,2,110,220,Credit Card,21,21,3.7,Thane,Delivery
+ORD0441,31-01-2025,18:00:00,Choco Lava Cake,1,100,100,Wallet,38,11,3.9,Malad,Dine-in
+ORD0442,02-01-2025,10:00:00,Tandoori Chicken,2,320,640,Cash,50,17,3.6,Bandra,Delivery
+ORD0443,27-03-2025,18:00:00,Chicken Biryani,1,300,300,Credit Card,54,14,3.2,Colaba,Delivery
+ORD0444,02-03-2025,13:00:00,Tandoori Chicken,3,320,960,Wallet,26,21,4.2,Thane,Dine-in
+ORD0445,04-01-2025,06:00:00,Chicken Biryani,1,300,300,UPI,56,16,3.4,Powai,Dine-in
+ORD0446,02-04-2025,19:00:00,Tandoori Chicken,2,320,640,Cash,,16,,Colaba,Delivery
+ORD0447,19-02-2025,04:00:00,Cold Coffee,3,90,270,Wallet,54,16,4.1,Malad,Dine-in
+ORD0448,26-03-2025,13:00:00,Mango Shake,3,110,330,UPI,56,22,4.5,Bandra,Delivery
+ORD0449,24-02-2025,01:00:00,Pasta Alfredo,2,220,440,UPI,46,14,3,Colaba,Delivery
+ORD0450,19-03-2025,20:00:00,Mango Shake,2,110,220,Cash,42,19,3.4,Thane,Dine-in
+ORD0451,05-01-2025,00:00:00,Choco Lava Cake,1,100,100,Cash,40,19,3.5,Bandra,Takeaway
+ORD0452,25-03-2025,20:00:00,Paneer Tikka,2,200,400,UPI,56,22,,Colaba,Delivery
+ORD0453,01-02-2025,03:00:00,Paneer Tikka,1,200,200,Wallet,,12,3.5,Bandra,Delivery
+ORD0454,11-01-2025,20:00:00,Tandoori Chicken,3,320,960,Credit Card,,14,4,Colaba,Delivery
+ORD0455,08-03-2025,01:00:00,Chicken Biryani,2,300,600,UPI,,17,4.6,Thane,Delivery
+ORD0456,02-04-2025,19:00:00,Pasta Alfredo,1,220,220,UPI,57,19,4.6,Powai,Delivery
+ORD0457,13-01-2025,16:00:00,Spring Rolls,1,150,150,Cash,36,17,3.6,Colaba,Takeaway
+ORD0458,01-01-2025,01:00:00,Pasta Alfredo,1,220,220,UPI,52,19,4.9,Bandra,Dine-in
+ORD0459,01-03-2025,07:00:00,Veg Burger,1,120,120,Wallet,47,20,4,Powai,Dine-in
+ORD0460,08-01-2025,21:00:00,Cold Coffee,1,90,90,Wallet,34,10,3.1,Andheri,Delivery
+ORD0461,28-03-2025,12:00:00,Pasta Alfredo,3,220,660,Credit Card,24,21,4,Thane,Delivery
+ORD0462,10-04-2025,07:00:00,Paneer Tikka,1,200,200,Wallet,27,18,4.5,Andheri,Dine-in
+ORD0463,01-01-2025,12:00:00,Cold Coffee,3,90,270,UPI,,17,3.2,Colaba,Delivery
+ORD0464,17-01-2025,04:00:00,Pasta Alfredo,1,220,220,Credit Card,59,19,3.9,Colaba,Dine-in
+ORD0465,09-04-2025,10:00:00,Pizza Margherita,3,250,750,Cash,38,16,4.6,Colaba,Delivery
+ORD0466,20-02-2025,10:00:00,Chicken Biryani,2,300,600,Wallet,24,14,,Colaba,Delivery
+ORD0467,03-04-2025,21:00:00,Chicken Biryani,2,300,600,Credit Card,57,24,,Powai,Delivery
+ORD0468,05-04-2025,15:00:00,Choco Lava Cake,1,100,100,Credit Card,50,17,4.5,Malad,Delivery
+ORD0469,25-01-2025,08:00:00,Cold Coffee,2,90,180,Credit Card,34,11,3,Colaba,Dine-in
+ORD0470,05-02-2025,03:00:00,Paneer Tikka,2,200,400,Cash,44,19,4,Thane,Delivery
+ORD0471,23-04-2025,09:00:00,Mango Shake,1,110,110,Cash,55,21,3.9,Andheri,Takeaway
+ORD0472,02-01-2025,21:00:00,Cold Coffee,1,90,90,UPI,51,24,4,Andheri,Dine-in
+ORD0473,01-02-2025,01:00:00,Paneer Tikka,3,200,600,Cash,29,24,,Bandra,Delivery
+ORD0474,17-01-2025,07:00:00,Chicken Biryani,2,300,600,UPI,28,18,3.8,Thane,Dine-in
+ORD0475,18-03-2025,17:00:00,Mango Shake,2,110,220,Credit Card,49,13,3.2,Bandra,Takeaway
+ORD0476,01-02-2025,18:00:00,Tandoori Chicken,2,320,640,Wallet,,10,4.3,Andheri,Delivery
+ORD0477,08-04-2025,22:00:00,Paneer Tikka,3,200,600,Wallet,31,18,4.1,Bandra,Delivery
+ORD0478,21-01-2025,12:00:00,Paneer Tikka,2,200,400,UPI,40,23,4.7,Thane,Delivery
+ORD0479,13-04-2025,13:00:00,Pizza Margherita,3,250,750,Credit Card,42,21,3.1,Bandra,Dine-in
+ORD0480,26-03-2025,21:00:00,Pasta Alfredo,3,220,660,Cash,44,15,4.1,Bandra,Delivery
+ORD0481,13-01-2025,17:00:00,Paneer Tikka,2,200,400,UPI,48,14,4.5,Thane,Takeaway
+ORD0482,27-01-2025,17:00:00,Pizza Margherita,3,250,750,Credit Card,,24,4,Thane,Delivery
+ORD0483,28-03-2025,11:00:00,Spring Rolls,1,150,150,UPI,41,20,,Andheri,Delivery
+ORD0484,06-02-2025,00:00:00,Paneer Tikka,3,200,600,Cash,38,16,4.4,Andheri,Takeaway
+ORD0485,08-02-2025,11:00:00,Cold Coffee,3,90,270,Credit Card,44,14,3.3,Colaba,Delivery
+ORD0486,15-04-2025,15:00:00,Cold Coffee,1,90,90,Cash,24,12,5,Bandra,Delivery
+ORD0487,13-04-2025,02:00:00,Pasta Alfredo,2,220,440,Cash,53,20,3.6,Bandra,Delivery
+ORD0488,21-01-2025,13:00:00,Cold Coffee,3,90,270,Cash,46,20,4.4,Bandra,Delivery
+ORD0489,21-04-2025,12:00:00,Paneer Tikka,1,200,200,Wallet,55,15,4.7,Andheri,Delivery
+ORD0490,27-02-2025,21:00:00,Chicken Biryani,1,300,300,Cash,33,23,4.5,Andheri,Delivery
+ORD0491,22-02-2025,19:00:00,Choco Lava Cake,3,100,300,Credit Card,35,12,4.7,Powai,Dine-in
+ORD0492,10-03-2025,23:00:00,Paneer Tikka,3,200,600,Cash,56,19,3.7,Thane,Delivery
+ORD0493,04-01-2025,19:00:00,Tandoori Chicken,2,320,640,Cash,43,15,4.2,Andheri,Delivery
+ORD0494,06-02-2025,05:00:00,Tandoori Chicken,1,320,320,UPI,59,16,3,Andheri,Takeaway
+ORD0495,07-02-2025,13:00:00,Paneer Tikka,1,200,200,UPI,39,10,4.2,Andheri,Delivery
+ORD0496,04-01-2025,13:00:00,Mango Shake,3,110,330,Credit Card,43,14,4.2,Andheri,Delivery
+ORD0497,24-02-2025,19:00:00,Cold Coffee,2,90,180,UPI,43,11,4.2,Malad,Delivery
+ORD0498,19-01-2025,18:00:00,Paneer Tikka,1,200,200,Credit Card,38,15,4.4,Andheri,Delivery
+ORD0499,16-03-2025,05:00:00,Spring Rolls,1,150,150,Cash,,24,4.7,Colaba,Takeaway
+ORD0500,19-01-2025,15:00:00,Pasta Alfredo,1,220,220,Credit Card,55,23,3.7,Powai,Delivery
+ORD0501,24-02-2025,00:00:00,Tandoori Chicken,2,320,640,Credit Card,47,20,4.5,Powai,Delivery
+ORD0502,26-02-2025,21:00:00,Mango Shake,1,110,110,UPI,52,10,4.3,Bandra,Delivery
+ORD0503,20-01-2025,15:00:00,Cold Coffee,3,90,270,Cash,46,24,3.8,Malad,Takeaway
+ORD0504,18-03-2025,10:00:00,Choco Lava Cake,3,100,300,Cash,28,19,4.2,Malad,Dine-in
+ORD0505,25-04-2025,09:00:00,Paneer Tikka,2,200,400,UPI,22,22,4.4,Colaba,Takeaway
+ORD0506,03-04-2025,21:00:00,Chicken Biryani,1,300,300,Credit Card,25,10,,Thane,Delivery
+ORD0507,18-04-2025,18:00:00,Choco Lava Cake,1,100,100,Wallet,,12,3.5,Andheri,Delivery
+ORD0508,15-02-2025,18:00:00,Cold Coffee,1,90,90,Cash,48,14,4,Malad,Takeaway
+ORD0509,21-01-2025,09:00:00,Veg Burger,1,120,120,Credit Card,55,15,4.3,Colaba,Dine-in
+ORD0510,12-04-2025,06:00:00,Choco Lava Cake,2,100,200,Credit Card,54,10,4.6,Bandra,Delivery
+ORD0511,09-04-2025,05:00:00,Tandoori Chicken,1,320,320,Cash,50,13,4.3,Colaba,Delivery
+ORD0512,05-02-2025,20:00:00,Paneer Tikka,2,200,400,Credit Card,,17,3.1,Powai,Delivery
+ORD0513,30-01-2025,21:00:00,Paneer Tikka,3,200,600,Cash,54,16,4.8,Malad,Dine-in
+ORD0514,29-04-2025,09:00:00,Pizza Margherita,2,250,500,UPI,,24,3.9,Andheri,Dine-in
+ORD0515,17-03-2025,05:00:00,Choco Lava Cake,1,100,100,Wallet,55,17,3.1,Powai,Dine-in
+ORD0516,22-03-2025,10:00:00,Chicken Biryani,1,300,300,Cash,,14,,Thane,Dine-in
+ORD0517,08-03-2025,17:00:00,Veg Burger,1,120,120,Cash,46,16,3.2,Bandra,Delivery
+ORD0518,15-01-2025,17:00:00,Pizza Margherita,3,250,750,UPI,39,17,4.1,Powai,Dine-in
+ORD0519,11-03-2025,20:00:00,Paneer Tikka,2,200,400,Credit Card,,19,3.8,Andheri,Delivery
+ORD0520,14-01-2025,04:00:00,Mango Shake,2,110,220,UPI,40,11,3.3,Powai,Delivery
+ORD0521,27-03-2025,04:00:00,Mango Shake,1,110,110,Cash,38,12,4.9,Malad,Delivery
+ORD0522,12-01-2025,08:00:00,Pizza Margherita,1,250,250,Wallet,23,24,3.5,Bandra,Takeaway
+ORD0523,11-03-2025,21:00:00,Pasta Alfredo,3,220,660,Credit Card,52,10,5,Thane,Dine-in
+ORD0524,01-03-2025,01:00:00,Veg Burger,2,120,240,Credit Card,58,15,,Colaba,Delivery
+ORD0525,18-02-2025,16:00:00,Pasta Alfredo,2,220,440,Wallet,25,23,3.9,Thane,Delivery
+ORD0526,05-03-2025,09:00:00,Spring Rolls,1,150,150,Cash,,14,4.9,Powai,Delivery
+ORD0527,21-04-2025,01:00:00,Mango Shake,2,110,220,Credit Card,,11,4.7,Colaba,Delivery
+ORD0528,20-02-2025,06:00:00,Pizza Margherita,2,250,500,Credit Card,31,17,4.6,Powai,Delivery
+ORD0529,07-02-2025,09:00:00,Mango Shake,3,110,330,Credit Card,51,16,,Bandra,Delivery
+ORD0530,21-01-2025,19:00:00,Veg Burger,2,120,240,Credit Card,23,23,4.5,Malad,Delivery
+ORD0531,15-01-2025,23:00:00,Veg Burger,1,120,120,Wallet,34,15,3.3,Bandra,Delivery
+ORD0532,14-01-2025,08:00:00,Tandoori Chicken,2,320,640,Credit Card,,21,4.5,Thane,Delivery
+ORD0533,03-03-2025,01:00:00,Choco Lava Cake,1,100,100,UPI,22,17,3.6,Colaba,Delivery
+ORD0534,11-02-2025,19:00:00,Chicken Biryani,3,300,900,Wallet,25,16,4.3,Thane,Delivery
+ORD0535,29-03-2025,17:00:00,Spring Rolls,3,150,450,Wallet,38,14,,Bandra,Dine-in
+ORD0536,20-02-2025,10:00:00,Choco Lava Cake,2,100,200,UPI,,17,3.6,Powai,Delivery
+ORD0537,01-04-2025,08:00:00,Chicken Biryani,1,300,300,UPI,40,17,4.6,Powai,Takeaway
+ORD0538,16-02-2025,14:00:00,Choco Lava Cake,2,100,200,Wallet,59,11,3.3,Powai,Delivery
+ORD0539,24-03-2025,05:00:00,Chicken Biryani,2,300,600,Wallet,26,12,,Malad,Delivery
+ORD0540,18-04-2025,02:00:00,Spring Rolls,3,150,450,Credit Card,59,15,3.3,Bandra,Delivery
+ORD0541,01-01-2025,22:00:00,Pasta Alfredo,1,220,220,UPI,51,21,4.6,Malad,Takeaway
+ORD0542,10-04-2025,03:00:00,Cold Coffee,2,90,180,Cash,25,23,3.2,Thane,Delivery
+ORD0543,01-02-2025,08:00:00,Tandoori Chicken,3,320,960,Cash,,23,3.6,Malad,Delivery
+ORD0544,01-01-2025,12:00:00,Choco Lava Cake,3,100,300,Credit Card,40,23,,Andheri,Dine-in
+ORD0545,13-01-2025,01:00:00,Choco Lava Cake,2,100,200,Wallet,50,20,3.3,Malad,Delivery
+ORD0546,27-01-2025,04:00:00,Pasta Alfredo,1,220,220,Cash,22,10,3.1,Colaba,Dine-in
+ORD0547,20-01-2025,01:00:00,Chicken Biryani,2,300,600,Wallet,24,12,3.4,Thane,Delivery
+ORD0548,02-04-2025,08:00:00,Mango Shake,2,110,220,UPI,25,12,4.5,Andheri,Delivery
+ORD0549,11-01-2025,01:00:00,Choco Lava Cake,3,100,300,Credit Card,,21,3.9,Bandra,Takeaway
+ORD0550,25-03-2025,23:00:00,Chicken Biryani,2,300,600,Cash,41,12,,Andheri,Delivery
+ORD0551,16-03-2025,15:00:00,Tandoori Chicken,1,320,320,Wallet,47,17,3.2,Malad,Delivery
+ORD0552,02-02-2025,20:00:00,Cold Coffee,3,90,270,UPI,53,18,4.5,Bandra,Delivery
+ORD0553,22-03-2025,10:00:00,Spring Rolls,1,150,150,Credit Card,42,15,4.5,Andheri,Delivery
+ORD0554,17-04-2025,10:00:00,Tandoori Chicken,2,320,640,Wallet,34,20,4.3,Colaba,Delivery
+ORD0555,24-03-2025,15:00:00,Tandoori Chicken,2,320,640,Wallet,21,12,4.4,Bandra,Dine-in
+ORD0556,28-01-2025,14:00:00,Paneer Tikka,3,200,600,Wallet,,15,4.7,Colaba,Delivery
+ORD0557,01-01-2025,07:00:00,Pasta Alfredo,3,220,660,Cash,42,24,3.7,Powai,Takeaway
+ORD0558,27-02-2025,14:00:00,Choco Lava Cake,2,100,200,UPI,34,24,3.1,Colaba,Delivery
+ORD0559,26-02-2025,20:00:00,Pasta Alfredo,1,220,220,Cash,33,13,4.7,Andheri,Delivery
+ORD0560,08-02-2025,08:00:00,Choco Lava Cake,3,100,300,Wallet,,21,4.3,Thane,Delivery
+ORD0561,22-03-2025,18:00:00,Cold Coffee,1,90,90,Wallet,,15,4.3,Colaba,Delivery
+ORD0562,23-01-2025,01:00:00,Veg Burger,2,120,240,Wallet,57,23,4.7,Malad,Delivery
+ORD0563,12-03-2025,02:00:00,Tandoori Chicken,3,320,960,UPI,49,24,3.2,Bandra,Takeaway
+ORD0564,24-03-2025,16:00:00,Chicken Biryani,1,300,300,UPI,,17,4.5,Colaba,Delivery
+ORD0565,26-01-2025,05:00:00,Cold Coffee,3,90,270,UPI,,15,4.7,Thane,Delivery
+ORD0566,23-03-2025,13:00:00,Paneer Tikka,3,200,600,Cash,22,19,4.4,Powai,Takeaway
+ORD0567,28-01-2025,19:00:00,Spring Rolls,1,150,150,Wallet,,16,4.2,Malad,Dine-in
+ORD0568,13-03-2025,22:00:00,Spring Rolls,1,150,150,Wallet,38,24,3.9,Thane,Delivery
+ORD0569,29-04-2025,05:00:00,Paneer Tikka,1,200,200,Cash,55,17,3.5,Powai,Takeaway
+ORD0570,09-01-2025,00:00:00,Choco Lava Cake,1,100,100,Wallet,33,20,3.1,Thane,Dine-in
+ORD0571,14-04-2025,13:00:00,Pizza Margherita,2,250,500,UPI,23,20,4.8,Thane,Dine-in
+ORD0572,08-01-2025,01:00:00,Cold Coffee,1,90,90,Cash,41,18,,Malad,Delivery
+ORD0573,29-04-2025,22:00:00,Mango Shake,1,110,110,Credit Card,,23,4.6,Powai,Delivery
+ORD0574,30-01-2025,11:00:00,Mango Shake,3,110,330,Cash,,20,5,Powai,Takeaway
+ORD0575,19-02-2025,20:00:00,Mango Shake,3,110,330,Credit Card,40,14,3.5,Malad,Delivery
+ORD0576,10-04-2025,02:00:00,Mango Shake,1,110,110,UPI,,14,3.2,Colaba,Dine-in
+ORD0577,01-03-2025,08:00:00,Choco Lava Cake,3,100,300,Cash,36,11,4.8,Powai,Dine-in
+ORD0578,05-03-2025,07:00:00,Cold Coffee,1,90,90,UPI,42,24,3.2,Thane,Delivery
+ORD0579,23-02-2025,11:00:00,Veg Burger,2,120,240,UPI,,24,3.3,Colaba,Delivery
+ORD0580,19-01-2025,19:00:00,Choco Lava Cake,1,100,100,UPI,41,17,4.9,Thane,Delivery
+ORD0581,07-02-2025,19:00:00,Paneer Tikka,1,200,200,Cash,48,12,3.5,Colaba,Delivery
+ORD0582,11-03-2025,03:00:00,Mango Shake,2,110,220,Credit Card,31,22,4.9,Powai,Dine-in
+ORD0583,17-04-2025,01:00:00,Paneer Tikka,2,200,400,Credit Card,46,16,5,Thane,Dine-in
+ORD0584,12-03-2025,22:00:00,Veg Burger,2,120,240,UPI,25,15,3.5,Powai,Dine-in
+ORD0585,17-01-2025,11:00:00,Spring Rolls,2,150,300,Cash,,19,,Malad,Delivery
+ORD0586,27-01-2025,07:00:00,Chicken Biryani,3,300,900,UPI,20,18,3.7,Powai,Dine-in
+ORD0587,22-04-2025,02:00:00,Pasta Alfredo,2,220,440,Credit Card,54,22,3.9,Powai,Delivery
+ORD0588,18-02-2025,12:00:00,Veg Burger,1,120,120,Wallet,57,10,3,Thane,Delivery
+ORD0589,02-03-2025,07:00:00,Paneer Tikka,3,200,600,Cash,39,21,3.6,Powai,Delivery
+ORD0590,08-02-2025,20:00:00,Tandoori Chicken,1,320,320,Credit Card,28,17,3.2,Andheri,Delivery
+ORD0591,10-02-2025,16:00:00,Pasta Alfredo,1,220,220,Credit Card,,12,4.8,Malad,Takeaway
+ORD0592,24-02-2025,08:00:00,Pasta Alfredo,3,220,660,UPI,32,20,3.1,Andheri,Dine-in
+ORD0593,11-01-2025,12:00:00,Tandoori Chicken,3,320,960,Wallet,20,17,3.8,Malad,Delivery
+ORD0594,16-03-2025,07:00:00,Mango Shake,1,110,110,Credit Card,31,22,3.6,Colaba,Dine-in
+ORD0595,14-02-2025,06:00:00,Tandoori Chicken,2,320,640,UPI,24,17,4.7,Malad,Delivery
+ORD0596,15-02-2025,22:00:00,Mango Shake,2,110,220,Credit Card,42,10,4.2,Malad,Takeaway
+ORD0597,22-03-2025,17:00:00,Chicken Biryani,2,300,600,Credit Card,23,23,4.6,Powai,Dine-in
+ORD0598,05-02-2025,17:00:00,Spring Rolls,1,150,150,UPI,,12,,Malad,Delivery
+ORD0599,20-04-2025,07:00:00,Choco Lava Cake,1,100,100,UPI,52,21,3.2,Powai,Delivery
+ORD0600,15-01-2025,08:00:00,Tandoori Chicken,3,320,960,Credit Card,21,24,4.3,Andheri,Takeaway
+ORD0601,14-03-2025,01:00:00,Tandoori Chicken,3,320,960,Cash,30,22,3,Andheri,Takeaway
+ORD0602,22-03-2025,18:00:00,Cold Coffee,2,90,180,Credit Card,28,18,,Bandra,Delivery
+ORD0603,08-02-2025,02:00:00,Veg Burger,2,120,240,Credit Card,46,14,4.8,Colaba,Delivery
+ORD0604,07-02-2025,02:00:00,Chicken Biryani,2,300,600,Cash,59,11,3,Bandra,Delivery
+ORD0605,12-01-2025,02:00:00,Pizza Margherita,3,250,750,Cash,20,16,4.2,Bandra,Delivery
+ORD0606,30-03-2025,04:00:00,Chicken Biryani,1,300,300,Wallet,50,18,4.5,Bandra,Dine-in
+ORD0607,07-02-2025,20:00:00,Cold Coffee,2,90,180,Wallet,37,13,4.3,Andheri,Delivery
+ORD0608,28-04-2025,08:00:00,Veg Burger,1,120,120,Credit Card,,15,,Thane,Delivery
+ORD0609,30-01-2025,11:00:00,Pizza Margherita,2,250,500,UPI,51,12,,Powai,Delivery
+ORD0610,07-03-2025,11:00:00,Cold Coffee,3,90,270,Credit Card,42,17,4.8,Powai,Takeaway
+ORD0611,01-02-2025,21:00:00,Mango Shake,1,110,110,Credit Card,43,16,4,Bandra,Delivery
+ORD0612,28-01-2025,04:00:00,Mango Shake,3,110,330,Credit Card,23,14,4.8,Colaba,Delivery
+ORD0613,05-03-2025,14:00:00,Veg Burger,3,120,360,UPI,48,19,4.3,Thane,Delivery
+ORD0614,01-04-2025,02:00:00,Choco Lava Cake,3,100,300,Cash,50,20,3.8,Thane,Dine-in
+ORD0615,18-02-2025,16:00:00,Tandoori Chicken,2,320,640,Cash,24,17,3.7,Andheri,Delivery
+ORD0616,25-04-2025,23:00:00,Paneer Tikka,2,200,400,Wallet,20,24,4.4,Powai,Delivery
+ORD0617,18-04-2025,17:00:00,Chicken Biryani,1,300,300,UPI,49,17,5,Powai,Delivery
+ORD0618,07-03-2025,10:00:00,Paneer Tikka,1,200,200,Credit Card,23,19,3.1,Colaba,Dine-in
+ORD0619,27-04-2025,10:00:00,Paneer Tikka,3,200,600,Cash,25,20,3.3,Colaba,Delivery
+ORD0620,26-04-2025,09:00:00,Veg Burger,1,120,120,Credit Card,,19,,Powai,Dine-in
+ORD0621,06-02-2025,09:00:00,Pasta Alfredo,1,220,220,UPI,54,16,3.9,Bandra,Dine-in
+ORD0622,18-01-2025,08:00:00,Mango Shake,1,110,110,Credit Card,48,22,4.2,Andheri,Takeaway
+ORD0623,25-04-2025,16:00:00,Tandoori Chicken,1,320,320,Wallet,51,15,4.1,Thane,Delivery
+ORD0624,06-02-2025,08:00:00,Paneer Tikka,1,200,200,Credit Card,32,11,3.3,Powai,Delivery
+ORD0625,22-02-2025,22:00:00,Pizza Margherita,3,250,750,Cash,,12,,Powai,Delivery
+ORD0626,11-02-2025,01:00:00,Choco Lava Cake,1,100,100,Wallet,40,23,4.4,Andheri,Delivery
+ORD0627,21-01-2025,11:00:00,Chicken Biryani,3,300,900,UPI,58,13,,Thane,Delivery
+ORD0628,24-04-2025,00:00:00,Paneer Tikka,3,200,600,Credit Card,,17,5,Colaba,Delivery
+ORD0629,13-01-2025,14:00:00,Mango Shake,2,110,220,Credit Card,,20,3.4,Colaba,Dine-in
+ORD0630,17-01-2025,02:00:00,Chicken Biryani,2,300,600,Cash,59,15,4.1,Bandra,Delivery
+ORD0631,19-01-2025,04:00:00,Tandoori Chicken,3,320,960,Wallet,,14,3.3,Bandra,Dine-in
+ORD0632,05-01-2025,16:00:00,Choco Lava Cake,1,100,100,Cash,,13,,Malad,Takeaway
+ORD0633,27-04-2025,18:00:00,Chicken Biryani,3,300,900,Wallet,,20,4.8,Colaba,Delivery
+ORD0634,11-01-2025,21:00:00,Paneer Tikka,1,200,200,Credit Card,31,15,3.3,Malad,Delivery
+ORD0635,11-01-2025,06:00:00,Tandoori Chicken,1,320,320,UPI,,10,4.4,Powai,Delivery
+ORD0636,10-02-2025,13:00:00,Tandoori Chicken,2,320,640,Cash,31,15,3.3,Colaba,Delivery
+ORD0637,19-01-2025,15:00:00,Cold Coffee,2,90,180,UPI,,24,3.6,Thane,Delivery
+ORD0638,09-04-2025,05:00:00,Chicken Biryani,3,300,900,Wallet,,10,,Andheri,Dine-in
+ORD0639,02-03-2025,23:00:00,Choco Lava Cake,3,100,300,UPI,34,20,4,Thane,Delivery
+ORD0640,24-04-2025,17:00:00,Cold Coffee,1,90,90,Wallet,,12,4.8,Colaba,Dine-in
+ORD0641,31-03-2025,17:00:00,Mango Shake,3,110,330,Cash,,24,4.5,Andheri,Takeaway
+ORD0642,04-01-2025,06:00:00,Pizza Margherita,1,250,250,Cash,54,24,3.2,Thane,Delivery
+ORD0643,25-04-2025,12:00:00,Paneer Tikka,1,200,200,Credit Card,,10,4.7,Malad,Dine-in
+ORD0644,05-04-2025,07:00:00,Choco Lava Cake,3,100,300,Credit Card,,24,4.8,Colaba,Delivery
+ORD0645,28-02-2025,04:00:00,Tandoori Chicken,1,320,320,Wallet,50,16,3,Colaba,Delivery
+ORD0646,05-04-2025,21:00:00,Veg Burger,1,120,120,Cash,41,20,4.7,Powai,Delivery
+ORD0647,10-01-2025,09:00:00,Choco Lava Cake,2,100,200,Cash,40,21,4.6,Bandra,Dine-in
+ORD0648,24-01-2025,02:00:00,Cold Coffee,2,90,180,Cash,49,24,5,Andheri,Takeaway
+ORD0649,23-04-2025,07:00:00,Cold Coffee,2,90,180,UPI,59,16,3,Malad,Delivery
+ORD0650,07-03-2025,00:00:00,Cold Coffee,1,90,90,Cash,,14,4.5,Thane,Delivery
+ORD0651,06-02-2025,12:00:00,Mango Shake,1,110,110,Wallet,28,24,,Bandra,Takeaway
+ORD0652,01-01-2025,03:00:00,Pizza Margherita,3,250,750,Cash,21,24,3.2,Thane,Delivery
+ORD0653,09-01-2025,01:00:00,Spring Rolls,2,150,300,UPI,33,13,3.8,Bandra,Delivery
+ORD0654,11-04-2025,10:00:00,Tandoori Chicken,3,320,960,Credit Card,27,12,4.3,Thane,Takeaway
+ORD0655,17-03-2025,12:00:00,Veg Burger,2,120,240,Credit Card,38,20,4.7,Powai,Delivery
+ORD0656,06-03-2025,07:00:00,Chicken Biryani,1,300,300,UPI,53,19,3.5,Malad,Delivery
+ORD0657,11-04-2025,01:00:00,Spring Rolls,2,150,300,Credit Card,45,22,,Malad,Delivery
+ORD0658,25-02-2025,14:00:00,Veg Burger,3,120,360,Credit Card,53,16,,Bandra,Takeaway
+ORD0659,07-03-2025,07:00:00,Chicken Biryani,3,300,900,Credit Card,33,17,3.8,Thane,Delivery
+ORD0660,27-01-2025,21:00:00,Tandoori Chicken,1,320,320,Wallet,58,14,,Thane,Delivery
+ORD0661,08-02-2025,00:00:00,Cold Coffee,1,90,90,Cash,49,14,3.1,Bandra,Delivery
+ORD0662,19-01-2025,20:00:00,Pizza Margherita,3,250,750,UPI,44,15,3.4,Powai,Dine-in
+ORD0663,24-02-2025,22:00:00,Chicken Biryani,2,300,600,Cash,29,19,4.6,Thane,Delivery
+ORD0664,23-02-2025,19:00:00,Mango Shake,2,110,220,Cash,33,11,4.4,Thane,Takeaway
+ORD0665,25-04-2025,20:00:00,Spring Rolls,3,150,450,Wallet,41,23,4,Malad,Delivery
+ORD0666,17-03-2025,22:00:00,Pizza Margherita,2,250,500,Wallet,31,16,,Malad,Delivery
+ORD0667,31-01-2025,13:00:00,Spring Rolls,2,150,300,Cash,37,17,4.3,Thane,Takeaway
+ORD0668,15-03-2025,08:00:00,Mango Shake,1,110,110,UPI,,24,3.2,Malad,Delivery
+ORD0669,22-04-2025,17:00:00,Tandoori Chicken,2,320,640,UPI,57,10,,Powai,Delivery
+ORD0670,27-03-2025,23:00:00,Paneer Tikka,2,200,400,UPI,,17,3,Andheri,Delivery
+ORD0671,09-03-2025,11:00:00,Cold Coffee,1,90,90,Credit Card,48,21,3.2,Thane,Dine-in
+ORD0672,05-03-2025,10:00:00,Pizza Margherita,3,250,750,Credit Card,28,20,,Andheri,Delivery
+ORD0673,03-02-2025,11:00:00,Choco Lava Cake,2,100,200,Cash,34,12,3.9,Malad,Delivery
+ORD0674,18-02-2025,05:00:00,Tandoori Chicken,3,320,960,Credit Card,56,10,4.4,Thane,Delivery
+ORD0675,30-03-2025,00:00:00,Chicken Biryani,3,300,900,Cash,44,17,4.4,Thane,Delivery
+ORD0676,16-02-2025,22:00:00,Paneer Tikka,1,200,200,Credit Card,40,20,4.3,Powai,Delivery
+ORD0677,02-02-2025,23:00:00,Pasta Alfredo,3,220,660,UPI,,10,4.4,Colaba,Takeaway
+ORD0678,25-01-2025,08:00:00,Pizza Margherita,1,250,250,Cash,39,12,4.3,Malad,Dine-in
+ORD0679,06-02-2025,09:00:00,Tandoori Chicken,1,320,320,UPI,,14,4,Powai,Delivery
+ORD0680,12-04-2025,08:00:00,Paneer Tikka,3,200,600,Wallet,37,23,4.5,Andheri,Takeaway
+ORD0681,14-04-2025,06:00:00,Choco Lava Cake,1,100,100,Wallet,32,11,4.1,Malad,Delivery
+ORD0682,09-04-2025,01:00:00,Spring Rolls,1,150,150,Cash,,18,4.7,Thane,Delivery
+ORD0683,23-02-2025,23:00:00,Paneer Tikka,2,200,400,UPI,52,13,4.4,Malad,Delivery
+ORD0684,14-02-2025,12:00:00,Paneer Tikka,2,200,400,UPI,28,17,4.9,Malad,Dine-in
+ORD0685,05-02-2025,17:00:00,Paneer Tikka,3,200,600,UPI,47,15,4.3,Andheri,Delivery
+ORD0686,21-01-2025,07:00:00,Pizza Margherita,2,250,500,UPI,20,13,3.2,Thane,Dine-in
+ORD0687,16-04-2025,02:00:00,Pasta Alfredo,1,220,220,Wallet,29,14,3.5,Colaba,Delivery
+ORD0688,22-02-2025,09:00:00,Cold Coffee,2,90,180,Cash,32,14,4.8,Thane,Delivery
+ORD0689,02-01-2025,21:00:00,Tandoori Chicken,1,320,320,Cash,55,23,3.8,Thane,Delivery
+ORD0690,25-01-2025,02:00:00,Pasta Alfredo,3,220,660,Cash,57,10,,Colaba,Delivery
+ORD0691,12-01-2025,21:00:00,Pizza Margherita,1,250,250,Wallet,44,13,3.1,Malad,Delivery
+ORD0692,30-03-2025,05:00:00,Spring Rolls,1,150,150,Credit Card,,13,3.9,Malad,Takeaway
+ORD0693,16-01-2025,14:00:00,Choco Lava Cake,1,100,100,Cash,59,21,5,Andheri,Delivery
+ORD0694,27-01-2025,21:00:00,Tandoori Chicken,1,320,320,Wallet,49,18,,Powai,Delivery
+ORD0695,03-02-2025,04:00:00,Choco Lava Cake,2,100,200,UPI,26,14,3.7,Thane,Delivery
+ORD0696,24-02-2025,06:00:00,Chicken Biryani,1,300,300,UPI,31,20,4.3,Andheri,Delivery
+ORD0697,17-03-2025,06:00:00,Tandoori Chicken,3,320,960,Cash,,12,,Thane,Delivery
+ORD0698,13-03-2025,10:00:00,Spring Rolls,1,150,150,Cash,42,18,3.6,Andheri,Delivery
+ORD0699,14-02-2025,21:00:00,Tandoori Chicken,3,320,960,Wallet,,13,4.8,Malad,Dine-in
+ORD0700,29-01-2025,08:00:00,Paneer Tikka,1,200,200,Credit Card,53,11,,Powai,Delivery
+ORD0701,28-01-2025,12:00:00,Choco Lava Cake,3,100,300,Credit Card,42,21,3.1,Thane,Delivery
+ORD0702,30-03-2025,07:00:00,Choco Lava Cake,1,100,100,Wallet,24,17,5,Bandra,Dine-in
+ORD0703,19-02-2025,10:00:00,Cold Coffee,3,90,270,Credit Card,,21,4.6,Malad,Delivery
+ORD0704,17-01-2025,11:00:00,Mango Shake,3,110,330,Wallet,45,18,4.6,Colaba,Delivery
+ORD0705,14-02-2025,18:00:00,Chicken Biryani,3,300,900,Cash,,22,,Bandra,Takeaway
+ORD0706,22-02-2025,07:00:00,Veg Burger,3,120,360,Credit Card,50,21,4.3,Malad,Delivery
+ORD0707,05-03-2025,16:00:00,Pizza Margherita,3,250,750,Cash,,13,3.7,Thane,Delivery
+ORD0708,23-02-2025,14:00:00,Pizza Margherita,3,250,750,Credit Card,45,10,,Colaba,Dine-in
+ORD0709,23-04-2025,04:00:00,Chicken Biryani,1,300,300,Credit Card,30,17,,Thane,Dine-in
+ORD0710,23-02-2025,00:00:00,Pasta Alfredo,2,220,440,UPI,57,20,4.5,Colaba,Delivery
+ORD0711,05-04-2025,20:00:00,Pizza Margherita,2,250,500,UPI,,14,4.2,Thane,Dine-in
+ORD0712,02-03-2025,21:00:00,Spring Rolls,2,150,300,UPI,37,23,4.1,Thane,Dine-in
+ORD0713,13-01-2025,02:00:00,Chicken Biryani,2,300,600,Wallet,,15,3.9,Colaba,Delivery
+ORD0714,13-02-2025,12:00:00,Pasta Alfredo,3,220,660,Credit Card,52,10,5,Thane,Takeaway
+ORD0715,17-03-2025,17:00:00,Choco Lava Cake,3,100,300,Wallet,50,21,4.3,Andheri,Delivery
+ORD0716,10-02-2025,15:00:00,Choco Lava Cake,3,100,300,Cash,45,23,4.1,Powai,Dine-in
+ORD0717,11-01-2025,04:00:00,Pasta Alfredo,1,220,220,UPI,37,12,3.4,Thane,Dine-in
+ORD0718,11-04-2025,21:00:00,Paneer Tikka,2,200,400,Credit Card,45,15,,Thane,Delivery
+ORD0719,04-01-2025,11:00:00,Choco Lava Cake,3,100,300,Wallet,48,20,,Andheri,Delivery
+ORD0720,07-04-2025,16:00:00,Chicken Biryani,3,300,900,Wallet,35,11,4.9,Malad,Delivery
+ORD0721,08-01-2025,12:00:00,Chicken Biryani,2,300,600,UPI,27,23,4.4,Andheri,Dine-in
+ORD0722,20-04-2025,00:00:00,Cold Coffee,3,90,270,Credit Card,58,10,3.3,Colaba,Delivery
+ORD0723,28-03-2025,17:00:00,Tandoori Chicken,2,320,640,UPI,48,15,4.2,Bandra,Delivery
+ORD0724,06-02-2025,09:00:00,Tandoori Chicken,1,320,320,UPI,47,21,3.5,Thane,Delivery
+ORD0725,12-02-2025,20:00:00,Chicken Biryani,2,300,600,Credit Card,,21,3.4,Colaba,Delivery
+ORD0726,24-02-2025,07:00:00,Tandoori Chicken,3,320,960,Cash,,15,3.9,Powai,Takeaway
+ORD0727,02-04-2025,02:00:00,Veg Burger,1,120,120,Wallet,29,13,3.6,Colaba,Delivery
+ORD0728,29-04-2025,22:00:00,Cold Coffee,3,90,270,UPI,53,12,4,Bandra,Dine-in
+ORD0729,29-03-2025,06:00:00,Spring Rolls,1,150,150,Credit Card,22,13,3.2,Colaba,Delivery
+ORD0730,03-04-2025,02:00:00,Paneer Tikka,3,200,600,UPI,58,20,3.6,Andheri,Delivery
+ORD0731,17-01-2025,17:00:00,Spring Rolls,1,150,150,Wallet,,13,3.8,Bandra,Delivery
+ORD0732,22-02-2025,17:00:00,Tandoori Chicken,1,320,320,Cash,,11,4.8,Andheri,Delivery
+ORD0733,26-01-2025,12:00:00,Chicken Biryani,3,300,900,Cash,,19,4.7,Malad,Delivery
+ORD0734,10-02-2025,08:00:00,Cold Coffee,1,90,90,Credit Card,,19,4.9,Colaba,Delivery
+ORD0735,22-01-2025,01:00:00,Mango Shake,1,110,110,Wallet,48,13,4.2,Malad,Delivery
+ORD0736,11-01-2025,23:00:00,Cold Coffee,3,90,270,UPI,40,12,3.7,Andheri,Delivery
+ORD0737,24-04-2025,18:00:00,Spring Rolls,1,150,150,Wallet,26,24,4.8,Malad,Dine-in
+ORD0738,26-01-2025,07:00:00,Tandoori Chicken,1,320,320,Cash,40,23,4.6,Bandra,Dine-in
+ORD0739,15-04-2025,19:00:00,Choco Lava Cake,3,100,300,Wallet,48,17,3.4,Malad,Delivery
+ORD0740,19-01-2025,15:00:00,Pasta Alfredo,3,220,660,Wallet,47,23,3.1,Malad,Delivery
+ORD0741,08-03-2025,14:00:00,Veg Burger,3,120,360,Wallet,56,10,3.8,Bandra,Delivery
+ORD0742,24-01-2025,07:00:00,Spring Rolls,3,150,450,Wallet,55,11,4.5,Powai,Dine-in
+ORD0743,24-01-2025,09:00:00,Cold Coffee,3,90,270,UPI,,11,4.8,Malad,Delivery
+ORD0744,27-03-2025,20:00:00,Chicken Biryani,3,300,900,Cash,24,24,3.3,Powai,Dine-in
+ORD0745,02-03-2025,08:00:00,Tandoori Chicken,1,320,320,Cash,25,14,,Andheri,Dine-in
+ORD0746,26-02-2025,09:00:00,Chicken Biryani,3,300,900,Wallet,,16,3.6,Andheri,Delivery
+ORD0747,01-03-2025,19:00:00,Choco Lava Cake,3,100,300,Cash,41,24,3.4,Colaba,Dine-in
+ORD0748,16-03-2025,05:00:00,Spring Rolls,3,150,450,Credit Card,55,24,3.8,Bandra,Dine-in
+ORD0749,13-01-2025,22:00:00,Mango Shake,2,110,220,Cash,49,23,4.6,Thane,Delivery
+ORD0750,21-04-2025,18:00:00,Pizza Margherita,2,250,500,UPI,55,16,3.4,Powai,Delivery
+ORD0751,22-01-2025,20:00:00,Pizza Margherita,2,250,500,UPI,40,17,4.3,Colaba,Delivery
+ORD0752,28-02-2025,22:00:00,Cold Coffee,3,90,270,Wallet,29,20,3.5,Malad,Dine-in
+ORD0753,09-01-2025,16:00:00,Paneer Tikka,3,200,600,Credit Card,51,19,4,Thane,Delivery
+ORD0754,17-01-2025,03:00:00,Pasta Alfredo,3,220,660,UPI,44,20,4.5,Colaba,Delivery
+ORD0755,11-04-2025,16:00:00,Pasta Alfredo,1,220,220,UPI,44,12,3.7,Andheri,Delivery
+ORD0756,14-04-2025,23:00:00,Choco Lava Cake,2,100,200,Cash,,17,,Thane,Dine-in
+ORD0757,15-01-2025,06:00:00,Tandoori Chicken,3,320,960,Credit Card,25,10,,Thane,Delivery
+ORD0758,20-04-2025,22:00:00,Veg Burger,2,120,240,Credit Card,,16,4.7,Colaba,Takeaway
+ORD0759,26-02-2025,16:00:00,Pizza Margherita,2,250,500,Wallet,48,18,3.7,Malad,Dine-in
+ORD0760,06-01-2025,19:00:00,Veg Burger,1,120,120,UPI,,12,3.2,Powai,Delivery
+ORD0761,18-02-2025,11:00:00,Pizza Margherita,3,250,750,Credit Card,20,10,3.8,Malad,Dine-in
+ORD0762,15-01-2025,03:00:00,Choco Lava Cake,2,100,200,Cash,38,20,4.7,Powai,Delivery
+ORD0763,13-04-2025,13:00:00,Tandoori Chicken,2,320,640,Credit Card,52,23,4.7,Bandra,Delivery
+ORD0764,28-04-2025,03:00:00,Veg Burger,3,120,360,UPI,48,12,,Bandra,Delivery
+ORD0765,06-01-2025,00:00:00,Veg Burger,1,120,120,Credit Card,59,12,3.9,Andheri,Dine-in
+ORD0766,09-03-2025,15:00:00,Mango Shake,2,110,220,Cash,59,22,4.9,Andheri,Dine-in
+ORD0767,02-03-2025,02:00:00,Choco Lava Cake,3,100,300,Credit Card,31,20,,Thane,Takeaway
+ORD0768,12-02-2025,09:00:00,Mango Shake,1,110,110,UPI,,13,,Powai,Delivery
+ORD0769,04-04-2025,03:00:00,Tandoori Chicken,3,320,960,UPI,21,17,4.6,Colaba,Takeaway
+ORD0770,26-02-2025,04:00:00,Pizza Margherita,3,250,750,Credit Card,33,17,4.9,Bandra,Delivery
+ORD0771,23-04-2025,15:00:00,Paneer Tikka,3,200,600,Wallet,38,12,3,Malad,Delivery
+ORD0772,20-03-2025,07:00:00,Tandoori Chicken,1,320,320,Cash,31,23,3.8,Powai,Delivery
+ORD0773,05-01-2025,11:00:00,Pasta Alfredo,1,220,220,UPI,25,10,,Powai,Delivery
+ORD0774,05-01-2025,13:00:00,Mango Shake,1,110,110,Wallet,52,23,3.2,Powai,Delivery
+ORD0775,14-04-2025,18:00:00,Cold Coffee,2,90,180,Credit Card,24,20,3.1,Thane,Dine-in
+ORD0776,16-02-2025,06:00:00,Paneer Tikka,1,200,200,Credit Card,,22,4.6,Colaba,Delivery
+ORD0777,07-01-2025,14:00:00,Chicken Biryani,3,300,900,Wallet,,23,4.6,Colaba,Delivery
+ORD0778,23-02-2025,23:00:00,Spring Rolls,1,150,150,Credit Card,43,11,4.9,Thane,Takeaway
+ORD0779,14-04-2025,07:00:00,Pizza Margherita,2,250,500,Wallet,48,19,3.4,Bandra,Dine-in
+ORD0780,06-01-2025,04:00:00,Mango Shake,2,110,220,Cash,24,11,4.4,Powai,Delivery
+ORD0781,10-02-2025,16:00:00,Spring Rolls,3,150,450,Credit Card,31,16,3.5,Powai,Takeaway
+ORD0782,10-01-2025,01:00:00,Tandoori Chicken,1,320,320,UPI,54,11,3.6,Thane,Delivery
+ORD0783,14-03-2025,05:00:00,Pasta Alfredo,2,220,440,Credit Card,45,20,4.2,Malad,Delivery
+ORD0784,31-03-2025,14:00:00,Paneer Tikka,2,200,400,Wallet,39,20,3.9,Bandra,Takeaway
+ORD0785,20-01-2025,11:00:00,Choco Lava Cake,3,100,300,Wallet,39,12,4.3,Andheri,Delivery
+ORD0786,30-01-2025,20:00:00,Choco Lava Cake,2,100,200,UPI,41,12,3.7,Malad,Delivery
+ORD0787,27-01-2025,09:00:00,Cold Coffee,1,90,90,Credit Card,,10,4.3,Powai,Dine-in
+ORD0788,10-03-2025,08:00:00,Spring Rolls,3,150,450,Wallet,55,20,4.2,Andheri,Delivery
+ORD0789,29-01-2025,03:00:00,Veg Burger,1,120,120,Credit Card,,12,3.2,Andheri,Delivery
+ORD0790,10-01-2025,20:00:00,Cold Coffee,3,90,270,Cash,41,12,,Colaba,Delivery
+ORD0791,17-02-2025,20:00:00,Pizza Margherita,3,250,750,Wallet,41,13,,Andheri,Delivery
+ORD0792,07-04-2025,12:00:00,Chicken Biryani,1,300,300,Cash,23,16,,Powai,Delivery
+ORD0793,18-02-2025,08:00:00,Pasta Alfredo,3,220,660,Wallet,20,19,3.8,Bandra,Delivery
+ORD0794,18-04-2025,13:00:00,Choco Lava Cake,2,100,200,Credit Card,,15,5,Thane,Takeaway
+ORD0795,17-01-2025,09:00:00,Spring Rolls,2,150,300,Wallet,46,15,,Thane,Delivery
+ORD0796,19-02-2025,02:00:00,Tandoori Chicken,3,320,960,Wallet,40,24,4.6,Thane,Delivery
+ORD0797,20-04-2025,14:00:00,Spring Rolls,1,150,150,Credit Card,,20,4.4,Bandra,Dine-in
+ORD0798,26-01-2025,18:00:00,Mango Shake,1,110,110,Credit Card,39,22,3.2,Powai,Delivery
+ORD0799,22-04-2025,20:00:00,Spring Rolls,3,150,450,UPI,51,13,3,Andheri,Dine-in
+ORD0800,03-03-2025,00:00:00,Mango Shake,1,110,110,Wallet,24,20,3.5,Powai,Delivery
+ORD0801,09-02-2025,10:00:00,Pizza Margherita,1,250,250,Credit Card,22,23,,Colaba,Delivery
+ORD0802,27-02-2025,00:00:00,Chicken Biryani,3,300,900,Wallet,,11,3.7,Andheri,Delivery
+ORD0803,28-04-2025,09:00:00,Veg Burger,2,120,240,Credit Card,57,24,4.6,Powai,Delivery
+ORD0804,28-02-2025,12:00:00,Paneer Tikka,2,200,400,UPI,22,19,4,Colaba,Dine-in
+ORD0805,28-04-2025,23:00:00,Pasta Alfredo,3,220,660,Wallet,27,12,4.5,Andheri,Takeaway
+ORD0806,21-03-2025,08:00:00,Pizza Margherita,1,250,250,UPI,,15,4.6,Bandra,Dine-in
+ORD0807,08-02-2025,16:00:00,Pizza Margherita,1,250,250,UPI,56,18,3.1,Bandra,Delivery
+ORD0808,28-02-2025,20:00:00,Pasta Alfredo,2,220,440,Wallet,,22,4.7,Andheri,Delivery
+ORD0809,01-03-2025,05:00:00,Chicken Biryani,2,300,600,Cash,59,13,4.1,Thane,Delivery
+ORD0810,16-04-2025,04:00:00,Veg Burger,3,120,360,Credit Card,,21,3.8,Andheri,Takeaway
+ORD0811,03-03-2025,21:00:00,Veg Burger,3,120,360,Wallet,32,13,4.2,Malad,Takeaway
+ORD0812,07-01-2025,10:00:00,Veg Burger,2,120,240,Wallet,43,13,3.4,Malad,Takeaway
+ORD0813,01-01-2025,22:00:00,Mango Shake,3,110,330,Wallet,33,15,4.3,Powai,Delivery
+ORD0814,01-01-2025,05:00:00,Pizza Margherita,2,250,500,Cash,40,22,3.1,Bandra,Delivery
+ORD0815,14-03-2025,20:00:00,Pizza Margherita,2,250,500,UPI,,16,4.4,Colaba,Delivery
+ORD0816,16-02-2025,19:00:00,Chicken Biryani,3,300,900,Credit Card,54,13,3.6,Bandra,Delivery
+ORD0817,08-03-2025,11:00:00,Pizza Margherita,3,250,750,Wallet,42,18,3.7,Andheri,Delivery
+ORD0818,03-03-2025,19:00:00,Mango Shake,1,110,110,Cash,51,16,4.9,Malad,Delivery
+ORD0819,05-02-2025,13:00:00,Choco Lava Cake,2,100,200,UPI,58,10,3.6,Bandra,Delivery
+ORD0820,01-03-2025,08:00:00,Choco Lava Cake,2,100,200,Credit Card,,12,4.7,Bandra,Delivery
+ORD0821,08-02-2025,21:00:00,Cold Coffee,1,90,90,Credit Card,24,19,4.8,Andheri,Delivery
+ORD0822,16-03-2025,22:00:00,Mango Shake,3,110,330,Credit Card,49,18,3,Thane,Delivery
+ORD0823,13-03-2025,14:00:00,Choco Lava Cake,1,100,100,Credit Card,42,22,4.4,Thane,Takeaway
+ORD0824,25-04-2025,14:00:00,Spring Rolls,3,150,450,UPI,36,16,3,Powai,Dine-in
+ORD0825,06-03-2025,04:00:00,Spring Rolls,2,150,300,Credit Card,37,23,3.3,Thane,Delivery
+ORD0826,02-02-2025,16:00:00,Chicken Biryani,2,300,600,Cash,51,19,4.8,Thane,Delivery
+ORD0827,10-01-2025,14:00:00,Paneer Tikka,3,200,600,Wallet,55,11,4,Thane,Delivery
+ORD0828,28-01-2025,10:00:00,Pasta Alfredo,2,220,440,Credit Card,58,16,3.5,Andheri,Delivery
+ORD0829,19-01-2025,21:00:00,Paneer Tikka,3,200,600,Cash,,23,4.9,Andheri,Delivery
+ORD0830,12-03-2025,10:00:00,Mango Shake,1,110,110,UPI,28,24,4.5,Colaba,Dine-in
+ORD0831,06-04-2025,18:00:00,Spring Rolls,3,150,450,Credit Card,29,17,4.4,Malad,Delivery
+ORD0832,05-03-2025,17:00:00,Veg Burger,2,120,240,Wallet,,12,4.1,Colaba,Dine-in
+ORD0833,01-01-2025,01:00:00,Pizza Margherita,1,250,250,Credit Card,32,10,,Colaba,Dine-in
+ORD0834,26-04-2025,06:00:00,Pizza Margherita,2,250,500,Credit Card,36,16,3.2,Powai,Delivery
+ORD0835,26-01-2025,16:00:00,Veg Burger,3,120,360,Cash,26,19,4,Colaba,Delivery
+ORD0836,22-02-2025,00:00:00,Spring Rolls,1,150,150,UPI,36,20,,Thane,Dine-in
+ORD0837,25-01-2025,02:00:00,Cold Coffee,3,90,270,Cash,48,14,3.4,Malad,Delivery
+ORD0838,26-01-2025,15:00:00,Cold Coffee,1,90,90,Cash,47,18,4.1,Colaba,Delivery
+ORD0839,05-03-2025,21:00:00,Chicken Biryani,1,300,300,Wallet,,12,,Thane,Takeaway
+ORD0840,17-04-2025,18:00:00,Choco Lava Cake,2,100,200,Credit Card,26,23,4,Malad,Delivery
+ORD0841,19-01-2025,01:00:00,Veg Burger,1,120,120,UPI,34,12,3,Malad,Delivery
+ORD0842,15-02-2025,07:00:00,Mango Shake,2,110,220,Wallet,,12,3.6,Andheri,Takeaway
+ORD0843,06-03-2025,07:00:00,Tandoori Chicken,2,320,640,Cash,25,21,,Powai,Delivery
+ORD0844,20-04-2025,07:00:00,Veg Burger,3,120,360,UPI,,21,4.1,Malad,Dine-in
+ORD0845,18-02-2025,12:00:00,Spring Rolls,2,150,300,UPI,21,22,4.6,Bandra,Delivery
+ORD0846,19-03-2025,19:00:00,Choco Lava Cake,1,100,100,UPI,48,12,3.4,Andheri,Delivery
+ORD0847,23-02-2025,13:00:00,Tandoori Chicken,3,320,960,UPI,23,20,3.7,Colaba,Delivery
+ORD0848,15-03-2025,10:00:00,Tandoori Chicken,3,320,960,Cash,49,20,4.7,Malad,Dine-in
+ORD0849,18-02-2025,08:00:00,Cold Coffee,3,90,270,Cash,53,22,,Powai,Delivery
+ORD0850,29-04-2025,14:00:00,Cold Coffee,1,90,90,Wallet,,13,4.5,Bandra,Dine-in
+ORD0851,27-02-2025,04:00:00,Tandoori Chicken,1,320,320,Cash,58,19,4.5,Andheri,Delivery
+ORD0852,08-04-2025,04:00:00,Pizza Margherita,3,250,750,Credit Card,48,20,3.3,Thane,Dine-in
+ORD0853,09-01-2025,05:00:00,Chicken Biryani,1,300,300,Cash,36,16,,Colaba,Dine-in
+ORD0854,04-04-2025,02:00:00,Tandoori Chicken,1,320,320,Cash,45,13,4.7,Colaba,Delivery
+ORD0855,26-04-2025,21:00:00,Choco Lava Cake,2,100,200,Cash,31,19,3.8,Thane,Delivery
+ORD0856,11-01-2025,21:00:00,Paneer Tikka,3,200,600,Wallet,59,22,3.4,Bandra,Dine-in
+ORD0857,03-04-2025,11:00:00,Mango Shake,2,110,220,UPI,30,24,4.1,Bandra,Delivery
+ORD0858,30-03-2025,01:00:00,Spring Rolls,2,150,300,UPI,31,12,4.6,Colaba,Delivery
+ORD0859,18-01-2025,16:00:00,Tandoori Chicken,2,320,640,Cash,57,18,3.5,Powai,Delivery
+ORD0860,07-02-2025,02:00:00,Choco Lava Cake,2,100,200,Credit Card,20,23,3.5,Powai,Delivery
+ORD0861,28-01-2025,20:00:00,Choco Lava Cake,2,100,200,Wallet,32,20,4.2,Bandra,Delivery
+ORD0862,22-01-2025,09:00:00,Choco Lava Cake,3,100,300,UPI,34,24,,Andheri,Dine-in
+ORD0863,04-01-2025,22:00:00,Veg Burger,3,120,360,UPI,,15,4.6,Andheri,Delivery
+ORD0864,10-04-2025,19:00:00,Paneer Tikka,1,200,200,Credit Card,47,17,3.1,Bandra,Dine-in
+ORD0865,03-03-2025,21:00:00,Veg Burger,2,120,240,UPI,40,12,4.6,Thane,Delivery
+ORD0866,01-03-2025,23:00:00,Chicken Biryani,2,300,600,Cash,25,18,,Thane,Delivery
+ORD0867,25-02-2025,13:00:00,Chicken Biryani,3,300,900,Cash,59,24,4.8,Thane,Delivery
+ORD0868,13-04-2025,12:00:00,Mango Shake,2,110,220,Cash,37,11,4.5,Malad,Takeaway
+ORD0869,06-04-2025,21:00:00,Choco Lava Cake,1,100,100,Cash,57,20,,Malad,Delivery
+ORD0870,20-01-2025,11:00:00,Cold Coffee,3,90,270,Cash,,22,4.5,Thane,Delivery
+ORD0871,05-04-2025,09:00:00,Chicken Biryani,3,300,900,UPI,46,12,4.1,Malad,Delivery
+ORD0872,16-01-2025,12:00:00,Veg Burger,1,120,120,Credit Card,54,13,4.8,Bandra,Delivery
+ORD0873,21-01-2025,18:00:00,Choco Lava Cake,2,100,200,Credit Card,30,23,3.6,Thane,Delivery
+ORD0874,17-02-2025,20:00:00,Pizza Margherita,3,250,750,Credit Card,,15,,Andheri,Takeaway
+ORD0875,07-02-2025,13:00:00,Pasta Alfredo,2,220,440,UPI,51,13,,Malad,Delivery
+ORD0876,01-02-2025,22:00:00,Cold Coffee,3,90,270,UPI,54,12,4.2,Colaba,Takeaway
+ORD0877,25-03-2025,09:00:00,Tandoori Chicken,3,320,960,Credit Card,44,13,5,Malad,Delivery
+ORD0878,19-01-2025,10:00:00,Spring Rolls,2,150,300,UPI,,19,3.3,Malad,Takeaway
+ORD0879,25-01-2025,19:00:00,Chicken Biryani,3,300,900,Wallet,,16,,Bandra,Dine-in
+ORD0880,24-01-2025,10:00:00,Tandoori Chicken,2,320,640,UPI,53,16,4.2,Malad,Delivery
+ORD0881,03-03-2025,04:00:00,Choco Lava Cake,3,100,300,UPI,40,21,4,Colaba,Takeaway
+ORD0882,27-04-2025,16:00:00,Pasta Alfredo,2,220,440,Wallet,39,15,4.2,Malad,Takeaway
+ORD0883,15-03-2025,10:00:00,Pasta Alfredo,1,220,220,UPI,37,20,4.4,Bandra,Delivery
+ORD0884,22-03-2025,23:00:00,Tandoori Chicken,3,320,960,Credit Card,30,14,4.3,Thane,Delivery
+ORD0885,27-03-2025,08:00:00,Pizza Margherita,3,250,750,Credit Card,44,18,3.1,Bandra,Delivery
+ORD0886,22-01-2025,18:00:00,Tandoori Chicken,1,320,320,Wallet,26,13,3.8,Colaba,Delivery
+ORD0887,13-04-2025,11:00:00,Chicken Biryani,2,300,600,UPI,41,11,4.3,Andheri,Takeaway
+ORD0888,02-04-2025,13:00:00,Cold Coffee,2,90,180,UPI,39,11,,Bandra,Delivery
+ORD0889,21-04-2025,00:00:00,Mango Shake,3,110,330,Wallet,34,21,,Bandra,Delivery
+ORD0890,09-02-2025,21:00:00,Pizza Margherita,2,250,500,Wallet,57,12,4.3,Malad,Delivery
+ORD0891,30-03-2025,12:00:00,Spring Rolls,1,150,150,Cash,21,14,4.7,Andheri,Takeaway
+ORD0892,06-03-2025,03:00:00,Veg Burger,2,120,240,Wallet,,19,4.5,Colaba,Delivery
+ORD0893,17-04-2025,07:00:00,Pizza Margherita,3,250,750,UPI,41,13,3.1,Powai,Dine-in
+ORD0894,09-02-2025,16:00:00,Pasta Alfredo,3,220,660,Wallet,35,23,4.3,Andheri,Dine-in
+ORD0895,07-01-2025,15:00:00,Chicken Biryani,1,300,300,Wallet,,20,4.8,Malad,Delivery
+ORD0896,17-02-2025,20:00:00,Chicken Biryani,3,300,900,UPI,43,24,3.3,Andheri,Delivery
+ORD0897,20-02-2025,19:00:00,Tandoori Chicken,1,320,320,UPI,,19,4.4,Powai,Dine-in
+ORD0898,04-04-2025,22:00:00,Chicken Biryani,1,300,300,Cash,27,24,4.7,Malad,Delivery
+ORD0899,03-04-2025,13:00:00,Spring Rolls,3,150,450,Wallet,31,10,,Thane,Takeaway
+ORD0900,17-01-2025,09:00:00,Cold Coffee,2,90,180,Wallet,48,12,4.1,Powai,Delivery
+ORD0901,07-04-2025,17:00:00,Chicken Biryani,3,300,900,UPI,,21,3.3,Malad,Delivery
+ORD0902,20-01-2025,17:00:00,Pasta Alfredo,2,220,440,Credit Card,43,19,,Powai,Dine-in
+ORD0903,01-02-2025,19:00:00,Paneer Tikka,3,200,600,UPI,,14,4.1,Powai,Delivery
+ORD0904,06-02-2025,07:00:00,Mango Shake,3,110,330,Wallet,59,20,3.7,Colaba,Delivery
+ORD0905,08-01-2025,23:00:00,Tandoori Chicken,2,320,640,Wallet,58,21,3.7,Thane,Dine-in
+ORD0906,13-01-2025,03:00:00,Veg Burger,1,120,120,Credit Card,45,15,4.8,Bandra,Delivery
+ORD0907,22-03-2025,05:00:00,Chicken Biryani,3,300,900,Cash,43,24,3.5,Andheri,Dine-in
+ORD0908,22-01-2025,01:00:00,Tandoori Chicken,3,320,960,Credit Card,30,21,4.2,Andheri,Delivery
+ORD0909,02-03-2025,04:00:00,Chicken Biryani,2,300,600,UPI,29,17,3.6,Malad,Dine-in
+ORD0910,24-01-2025,02:00:00,Tandoori Chicken,2,320,640,UPI,,16,3.2,Powai,Takeaway
+ORD0911,28-04-2025,09:00:00,Paneer Tikka,1,200,200,Credit Card,53,18,,Andheri,Dine-in
+ORD0912,22-01-2025,12:00:00,Spring Rolls,1,150,150,Cash,37,12,5,Malad,Takeaway
+ORD0913,17-01-2025,14:00:00,Choco Lava Cake,2,100,200,Wallet,34,24,4.1,Thane,Delivery
+ORD0914,08-02-2025,12:00:00,Tandoori Chicken,1,320,320,Cash,51,18,4.9,Malad,Delivery
+ORD0915,30-03-2025,20:00:00,Tandoori Chicken,2,320,640,Credit Card,32,18,4,Thane,Delivery
+ORD0916,13-02-2025,05:00:00,Chicken Biryani,3,300,900,Wallet,26,18,4.7,Colaba,Dine-in
+ORD0917,18-01-2025,15:00:00,Tandoori Chicken,3,320,960,UPI,58,13,,Andheri,Delivery
+ORD0918,28-02-2025,07:00:00,Mango Shake,1,110,110,Cash,36,10,3.4,Thane,Takeaway
+ORD0919,23-03-2025,12:00:00,Cold Coffee,1,90,90,Cash,45,23,4.3,Malad,Delivery
+ORD0920,04-01-2025,06:00:00,Veg Burger,1,120,120,Credit Card,32,20,3.3,Powai,Delivery
+ORD0921,07-02-2025,23:00:00,Choco Lava Cake,1,100,100,Cash,49,12,3.4,Colaba,Dine-in
+ORD0922,18-04-2025,21:00:00,Tandoori Chicken,2,320,640,Cash,,15,4.2,Powai,Takeaway
+ORD0923,07-02-2025,07:00:00,Mango Shake,3,110,330,Wallet,27,23,3.3,Colaba,Delivery
+ORD0924,18-03-2025,02:00:00,Mango Shake,2,110,220,Credit Card,22,20,3.7,Malad,Delivery
+ORD0925,28-02-2025,04:00:00,Spring Rolls,2,150,300,Credit Card,44,24,3.4,Thane,Delivery
+ORD0926,25-03-2025,19:00:00,Veg Burger,3,120,360,Credit Card,41,13,,Powai,Delivery
+ORD0927,13-01-2025,12:00:00,Chicken Biryani,3,300,900,Credit Card,,19,4.6,Colaba,Dine-in
+ORD0928,20-01-2025,19:00:00,Chicken Biryani,1,300,300,Wallet,36,15,3.5,Powai,Dine-in
+ORD0929,01-01-2025,14:00:00,Choco Lava Cake,1,100,100,Cash,36,17,4,Bandra,Delivery
+ORD0930,23-04-2025,12:00:00,Pasta Alfredo,3,220,660,UPI,27,17,4.8,Powai,Dine-in
+ORD0931,20-04-2025,12:00:00,Veg Burger,3,120,360,Cash,56,10,4.5,Colaba,Takeaway
+ORD0932,01-03-2025,15:00:00,Chicken Biryani,3,300,900,UPI,21,15,3.9,Thane,Delivery
+ORD0933,17-01-2025,06:00:00,Choco Lava Cake,1,100,100,UPI,51,11,3.8,Thane,Dine-in
+ORD0934,03-04-2025,17:00:00,Chicken Biryani,1,300,300,UPI,40,23,3.4,Malad,Takeaway
+ORD0935,24-02-2025,16:00:00,Paneer Tikka,3,200,600,Cash,34,18,3.9,Thane,Takeaway
+ORD0936,17-04-2025,20:00:00,Choco Lava Cake,3,100,300,Wallet,,13,3.6,Malad,Dine-in
+ORD0937,26-02-2025,19:00:00,Pizza Margherita,1,250,250,Credit Card,20,21,3,Bandra,Delivery
+ORD0938,07-04-2025,15:00:00,Pasta Alfredo,1,220,220,Credit Card,51,24,3.9,Powai,Delivery
+ORD0939,18-04-2025,13:00:00,Pasta Alfredo,1,220,220,Cash,27,17,4.8,Thane,Delivery
+ORD0940,12-01-2025,00:00:00,Spring Rolls,3,150,450,Credit Card,59,19,3.8,Malad,Dine-in
+ORD0941,11-01-2025,06:00:00,Tandoori Chicken,3,320,960,UPI,50,10,3.4,Powai,Delivery
+ORD0942,02-04-2025,20:00:00,Pizza Margherita,1,250,250,UPI,59,16,,Andheri,Delivery
+ORD0943,25-02-2025,05:00:00,Pizza Margherita,2,250,500,Cash,57,14,4.5,Thane,Takeaway
+ORD0944,24-04-2025,21:00:00,Mango Shake,1,110,110,Credit Card,54,12,3.7,Malad,Dine-in
+ORD0945,18-02-2025,20:00:00,Spring Rolls,3,150,450,Cash,,11,4.3,Colaba,Delivery
+ORD0946,23-03-2025,06:00:00,Paneer Tikka,3,200,600,Wallet,36,15,4.4,Malad,Dine-in
+ORD0947,11-04-2025,01:00:00,Mango Shake,2,110,220,Wallet,56,12,4,Thane,Delivery
+ORD0948,26-03-2025,16:00:00,Choco Lava Cake,3,100,300,Wallet,55,19,,Powai,Dine-in
+ORD0949,13-01-2025,19:00:00,Choco Lava Cake,2,100,200,Wallet,51,10,4.4,Andheri,Delivery
+ORD0950,28-04-2025,13:00:00,Mango Shake,3,110,330,UPI,54,23,3.2,Thane,Delivery
+ORD0951,28-01-2025,00:00:00,Paneer Tikka,2,200,400,Wallet,,11,5,Powai,Delivery
+ORD0952,06-04-2025,11:00:00,Paneer Tikka,2,200,400,Credit Card,23,15,3.1,Colaba,Delivery
+ORD0953,09-01-2025,14:00:00,Veg Burger,3,120,360,UPI,,17,3.7,Powai,Delivery
+ORD0954,18-04-2025,01:00:00,Tandoori Chicken,3,320,960,Wallet,43,23,3.1,Powai,Delivery
+ORD0955,13-03-2025,19:00:00,Veg Burger,2,120,240,UPI,38,12,3.6,Malad,Delivery
+ORD0956,07-03-2025,15:00:00,Mango Shake,1,110,110,Cash,34,12,3.4,Thane,Delivery
+ORD0957,22-02-2025,11:00:00,Mango Shake,2,110,220,UPI,53,16,4.8,Thane,Delivery
+ORD0958,24-03-2025,11:00:00,Tandoori Chicken,3,320,960,Wallet,23,16,3.6,Andheri,Delivery
+ORD0959,21-04-2025,00:00:00,Chicken Biryani,2,300,600,Cash,44,11,3.4,Colaba,Delivery
+ORD0960,21-01-2025,19:00:00,Cold Coffee,1,90,90,Wallet,41,14,4.5,Powai,Delivery
+ORD0961,06-04-2025,19:00:00,Pasta Alfredo,2,220,440,Wallet,34,19,,Andheri,Delivery
+ORD0962,19-04-2025,19:00:00,Tandoori Chicken,3,320,960,Wallet,,23,,Andheri,Delivery
+ORD0963,25-01-2025,20:00:00,Spring Rolls,1,150,150,Cash,24,15,4.8,Powai,Delivery
+ORD0964,21-04-2025,11:00:00,Pasta Alfredo,3,220,660,Cash,42,13,4.2,Colaba,Dine-in
+ORD0965,21-01-2025,02:00:00,Cold Coffee,2,90,180,Wallet,59,16,4.4,Malad,Delivery
+ORD0966,09-02-2025,17:00:00,Chicken Biryani,2,300,600,UPI,44,13,3,Powai,Dine-in
+ORD0967,28-04-2025,10:00:00,Chicken Biryani,1,300,300,Credit Card,,14,3.2,Bandra,Delivery
+ORD0968,22-02-2025,22:00:00,Pizza Margherita,1,250,250,UPI,57,22,3.5,Colaba,Takeaway
+ORD0969,28-02-2025,15:00:00,Chicken Biryani,2,300,600,Cash,20,17,3.1,Colaba,Takeaway
+ORD0970,30-01-2025,10:00:00,Tandoori Chicken,3,320,960,Wallet,45,22,4.1,Colaba,Delivery
+ORD0971,03-03-2025,21:00:00,Mango Shake,2,110,220,Wallet,49,18,3.1,Thane,Delivery
+ORD0972,27-02-2025,20:00:00,Mango Shake,3,110,330,UPI,53,16,3.2,Thane,Delivery
+ORD0973,29-03-2025,11:00:00,Pizza Margherita,1,250,250,Cash,41,17,5,Andheri,Delivery
+ORD0974,01-01-2025,00:00:00,Paneer Tikka,1,200,200,UPI,40,24,4.6,Powai,Delivery
+ORD0975,07-02-2025,02:00:00,Paneer Tikka,1,200,200,Cash,35,17,3.3,Malad,Takeaway
+ORD0976,17-01-2025,16:00:00,Paneer Tikka,2,200,400,Credit Card,45,22,,Thane,Dine-in
+ORD0977,17-01-2025,05:00:00,Mango Shake,1,110,110,Wallet,33,22,4.7,Malad,Delivery
+ORD0978,19-04-2025,13:00:00,Choco Lava Cake,3,100,300,Credit Card,27,22,4.2,Thane,Dine-in
+ORD0979,27-01-2025,12:00:00,Tandoori Chicken,1,320,320,Credit Card,50,14,3.4,Bandra,Delivery
+ORD0980,01-03-2025,05:00:00,Pasta Alfredo,1,220,220,Cash,41,19,4.4,Thane,Delivery
+ORD0981,29-03-2025,01:00:00,Pasta Alfredo,2,220,440,Credit Card,24,19,3.8,Powai,Delivery
+ORD0982,10-03-2025,17:00:00,Paneer Tikka,2,200,400,UPI,,13,4.1,Malad,Delivery
+ORD0983,14-01-2025,13:00:00,Chicken Biryani,1,300,300,Credit Card,26,21,3.2,Bandra,Dine-in
+ORD0984,19-01-2025,10:00:00,Pizza Margherita,3,250,750,Credit Card,,21,,Thane,Takeaway
+ORD0985,04-02-2025,16:00:00,Chicken Biryani,3,300,900,Wallet,38,13,4.1,Colaba,Delivery
+ORD0986,01-02-2025,15:00:00,Mango Shake,1,110,110,UPI,36,16,3.5,Powai,Delivery
+ORD0987,05-03-2025,02:00:00,Pasta Alfredo,1,220,220,Cash,25,19,4.1,Colaba,Delivery
+ORD0988,06-02-2025,15:00:00,Spring Rolls,3,150,450,UPI,23,17,3.3,Colaba,Delivery
+ORD0989,01-04-2025,15:00:00,Spring Rolls,2,150,300,Wallet,23,22,,Colaba,Delivery
+ORD0990,30-03-2025,12:00:00,Choco Lava Cake,2,100,200,Cash,50,12,3.5,Powai,Takeaway
+ORD0991,24-01-2025,14:00:00,Cold Coffee,3,90,270,Credit Card,50,18,3.6,Andheri,Delivery
+ORD0992,06-03-2025,07:00:00,Tandoori Chicken,3,320,960,Wallet,58,19,3.6,Bandra,Dine-in
+ORD0993,20-03-2025,02:00:00,Tandoori Chicken,2,320,640,UPI,29,15,4.1,Bandra,Delivery
+ORD0994,09-03-2025,20:00:00,Pizza Margherita,1,250,250,Cash,,16,4.5,Andheri,Delivery
+ORD0995,12-02-2025,12:00:00,Mango Shake,3,110,330,Credit Card,24,23,4.1,Bandra,Delivery
+ORD0996,19-04-2025,11:00:00,Tandoori Chicken,1,320,320,Cash,42,15,3.5,Bandra,Takeaway
+ORD0997,18-01-2025,14:00:00,Paneer Tikka,2,200,400,Cash,51,18,3.6,Colaba,Dine-in
+ORD0998,24-03-2025,05:00:00,Tandoori Chicken,3,320,960,UPI,,24,3.5,Powai,Delivery
+ORD0999,11-01-2025,10:00:00,Paneer Tikka,1,200,200,Wallet,,13,3.6,Colaba,Dine-in
+ORD1000,21-03-2025,08:00:00,Choco Lava Cake,3,100,300,Credit Card,24,15,4.6,Andheri,Delivery
