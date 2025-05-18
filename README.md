@@ -50,7 +50,7 @@ As a Business Analyst hired by a restaurant chain, the goal was to build a dashb
 
 ## 🔗 Data Model
 
-![Data Model](Screenshot%202025-05-18%20202935.png)
+![Data Model](image.png)
 
 The model includes:
 
@@ -61,4 +61,4 @@ The model includes:
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
